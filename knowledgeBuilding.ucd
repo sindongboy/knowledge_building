@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ClassDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" xmlns:options="options.xmi" name="knowledgeBuilding" size="1442,917" id="" metadata="uml2-1.0" initialized="true" scrolledY="90" tag="1000" key="32303037303533312D31303030206B6E6F776C656467654275696C64696E672F36303432">
+  <children xsi:type="editmodel:ClassEditModel" name="CommonExprExtractor" location="225,360" size="218,171" id="com.skplanet.omp.knowledgeBuilding/CommonExprExtractor">
+    <children xsi:type="editmodel:CompartmentEditModel" size="195,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="mapRepAttr" id="com.skplanet.omp.knowledgeBuilding/CommonExprExtractor#mapRepAttr"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="137,90">
+      <children xsi:type="editmodel:MethodEditModel" name="CommonExprExtractor" id="com.skplanet.omp.knowledgeBuilding/CommonExprExtractor#CommonExprExtractor()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="do_represent_mapper" id="com.skplanet.omp.knowledgeBuilding/CommonExprExtractor#do_represent_mapper(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getEditDistance" id="com.skplanet.omp.knowledgeBuilding/CommonExprExtractor#getEditDistance(Ljava.lang.String;Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="init" id="com.skplanet.omp.knowledgeBuilding/CommonExprExtractor#init()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="main" id="com.skplanet.omp.knowledgeBuilding/CommonExprExtractor#main([Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="com.skplanet.omp.knowledgeBuilding/CommonExprExtractor-Standard::Call->com.skplanet.omp.knowledgeBuilding.Database/DBManager*com.skplanet.omp.knowledgeBuilding/CommonExprExtractor-Standard::Instantiate->com.skplanet.omp.knowledgeBuilding.Database/DBManager*com.skplanet.omp.knowledgeBuilding/CommonExprExtractor-Soyatec::Import->com.skplanet.omp.knowledgeBuilding.Database/DBManager" source="//@children.0" target="//@children.1" targetEnd="//@children.0/@sourceConnections.0/@children.2" label="//@children.0/@sourceConnections.0/@children.0" sourceEnd="//@children.0/@sourceConnections.0/@children.1" connectionRouterKind="Manual">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«Import, Call, Instantiate»" size="119,14" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="218,85" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,85"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.2/@sourceConnections.0 //@children.3/@sourceConnections.0 //@children.0/@sourceConnections.0" name="DBManager" location="570,360" size="251,189" id="com.skplanet.omp.knowledgeBuilding.Database/DBManager">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="109,126">
+      <children xsi:type="editmodel:MethodEditModel" name="DBManager" id="com.skplanet.omp.knowledgeBuilding.Database/DBManager#DBManager()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="close" id="com.skplanet.omp.knowledgeBuilding.Database/DBManager#close()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="insert" id="com.skplanet.omp.knowledgeBuilding.Database/DBManager#insert(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="selectAll" id="com.skplanet.omp.knowledgeBuilding.Database/DBManager#selectAll(Ljava.lang.String;Ljava.lang.String;Ljava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="selectAllMult" id="com.skplanet.omp.knowledgeBuilding.Database/DBManager#selectAllMult(Ljava.lang.String;ILjava.util.ArrayList;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="selectOne" id="com.skplanet.omp.knowledgeBuilding.Database/DBManager#selectOne(Ljava.lang.String;Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="select_prepared" id="com.skplanet.omp.knowledgeBuilding.Database/DBManager#select_prepared(Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="MakeSheetsByDB" location="595,225" size="202,81" id="com.skplanet.omp.knowledgeBuilding/MakeSheetsByDB">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="52,18">
+      <children xsi:type="editmodel:MethodEditModel" name="main" id="com.skplanet.omp.knowledgeBuilding/MakeSheetsByDB#main([Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="com.skplanet.omp.knowledgeBuilding/MakeSheetsByDB-Standard::Call->com.skplanet.omp.knowledgeBuilding.Database/DBManager*com.skplanet.omp.knowledgeBuilding/MakeSheetsByDB-Standard::Instantiate->com.skplanet.omp.knowledgeBuilding.Database/DBManager*com.skplanet.omp.knowledgeBuilding/MakeSheetsByDB-Soyatec::Import->com.skplanet.omp.knowledgeBuilding.Database/DBManager" source="//@children.2" target="//@children.1" targetEnd="//@children.2/@sourceConnections.0/@children.2" label="//@children.2/@sourceConnections.0/@children.0" sourceEnd="//@children.2/@sourceConnections.0/@children.1" connectionRouterKind="Manual">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«Import, Call, Instantiate»" size="119,14" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="100,81" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="125,0"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="MakeSheetsByFile" location="960,324" size="276,225" id="com.skplanet.omp.knowledgeBuilding/MakeSheetsByFile">
+    <children xsi:type="editmodel:CompartmentEditModel" size="253,108">
+      <children xsi:type="editmodel:AttributeEditModel" name="attrList" id="com.skplanet.omp.knowledgeBuilding/MakeSheetsByFile#attrList"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="cateList" id="com.skplanet.omp.knowledgeBuilding/MakeSheetsByFile#cateList"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="mapAttrAll" id="com.skplanet.omp.knowledgeBuilding/MakeSheetsByFile#mapAttrAll"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="mapAttrCate" id="com.skplanet.omp.knowledgeBuilding/MakeSheetsByFile#mapAttrCate"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="mapAttrSynm" id="com.skplanet.omp.knowledgeBuilding/MakeSheetsByFile#mapAttrSynm"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="mapRepAttr" id="com.skplanet.omp.knowledgeBuilding/MakeSheetsByFile#mapRepAttr"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="137,54">
+      <children xsi:type="editmodel:MethodEditModel" name="do_represent_mapper" id="com.skplanet.omp.knowledgeBuilding/MakeSheetsByFile#do_represent_mapper()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="do_synonym_mapper" id="com.skplanet.omp.knowledgeBuilding/MakeSheetsByFile#do_synonym_mapper()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="main" id="com.skplanet.omp.knowledgeBuilding/MakeSheetsByFile#main([Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="com.skplanet.omp.knowledgeBuilding/MakeSheetsByFile-Standard::Call->com.skplanet.omp.knowledgeBuilding.Database/DBManager*com.skplanet.omp.knowledgeBuilding/MakeSheetsByFile-Standard::Instantiate->com.skplanet.omp.knowledgeBuilding.Database/DBManager*com.skplanet.omp.knowledgeBuilding/MakeSheetsByFile-Soyatec::Import->com.skplanet.omp.knowledgeBuilding.Database/DBManager" source="//@children.3" target="//@children.1" targetEnd="//@children.3/@sourceConnections.0/@children.2" label="//@children.3/@sourceConnections.0/@children.0" sourceEnd="//@children.3/@sourceConnections.0/@children.1" connectionRouterKind="Manual">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«Import, Call, Instantiate»" size="119,14" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,130" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="251,94"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="KnowledgeUploaderAll" location="375,600" size="292,297" id="com.skplanet.omp.knowledgeBuilding/KnowledgeUploaderAll">
+    <children xsi:type="editmodel:CompartmentEditModel" size="269,144">
+      <children xsi:type="editmodel:AttributeEditModel" name="attrList" id="com.skplanet.omp.knowledgeBuilding/KnowledgeUploaderAll#attrList"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="cateList" id="com.skplanet.omp.knowledgeBuilding/KnowledgeUploaderAll#cateList"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="mapAttrAll" id="com.skplanet.omp.knowledgeBuilding/KnowledgeUploaderAll#mapAttrAll"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="mapAttrCate" id="com.skplanet.omp.knowledgeBuilding/KnowledgeUploaderAll#mapAttrCate"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="mapAttrSynm" id="com.skplanet.omp.knowledgeBuilding/KnowledgeUploaderAll#mapAttrSynm"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="mapCateNew" id="com.skplanet.omp.knowledgeBuilding/KnowledgeUploaderAll#mapCateNew"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="mapMappingIDtoCategoryID" id="com.skplanet.omp.knowledgeBuilding/KnowledgeUploaderAll#mapMappingIDtoCategoryID"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="mapRepAttr" id="com.skplanet.omp.knowledgeBuilding/KnowledgeUploaderAll#mapRepAttr"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="140,90">
+      <children xsi:type="editmodel:MethodEditModel" name="KnowledgeUploaderAll" id="com.skplanet.omp.knowledgeBuilding/KnowledgeUploaderAll#KnowledgeUploaderAll()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="do_represent_mapper" id="com.skplanet.omp.knowledgeBuilding/KnowledgeUploaderAll#do_represent_mapper(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="do_synonym_mapper" id="com.skplanet.omp.knowledgeBuilding/KnowledgeUploaderAll#do_synonym_mapper(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="init" id="com.skplanet.omp.knowledgeBuilding/KnowledgeUploaderAll#init()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="main" id="com.skplanet.omp.knowledgeBuilding/KnowledgeUploaderAll#main([Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:DependencyEditModel" autoLocated="true" id="com.skplanet.omp.knowledgeBuilding/KnowledgeUploaderAll-Standard::Call->com.skplanet.omp.knowledgeBuilding.dao/InsertDicDAO*com.skplanet.omp.knowledgeBuilding/KnowledgeUploaderAll-Standard::Instantiate->com.skplanet.omp.knowledgeBuilding.dao/InsertDicDAO*com.skplanet.omp.knowledgeBuilding/KnowledgeUploaderAll-Soyatec::Import->com.skplanet.omp.knowledgeBuilding.dao/InsertDicDAO" source="//@children.4" target="//@children.5" targetEnd="//@children.4/@sourceConnections.0/@children.2" label="//@children.4/@sourceConnections.0/@children.0" sourceEnd="//@children.4/@sourceConnections.0/@children.1" connectionRouterKind="Manual">
+      <children xsi:type="editmodel:WireLabelEditModel" name="«Import, Call, Instantiate»" size="119,14" anchorKind="MiddlePart"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="292,104" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,85"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.4/@sourceConnections.0" name="InsertDicDAO" location="775,619" size="223,171" id="com.skplanet.omp.knowledgeBuilding.dao/InsertDicDAO">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="126,108">
+      <children xsi:type="editmodel:MethodEditModel" name="InsertDicDAO" id="com.skplanet.omp.knowledgeBuilding.dao/InsertDicDAO#InsertDicDAO()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="deleteKnowledgeAll" id="com.skplanet.omp.knowledgeBuilding.dao/InsertDicDAO#deleteKnowledgeAll()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="insertAttr" id="com.skplanet.omp.knowledgeBuilding.dao/InsertDicDAO#insertAttr(Lcom.skplanet.omp.knowledgeBuilding.command.InsertAttrData;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="insertDic" id="com.skplanet.omp.knowledgeBuilding.dao/InsertDicDAO#insertDic(Lcom.skplanet.omp.knowledgeBuilding.command.InsertDicData;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="insertSynm" id="com.skplanet.omp.knowledgeBuilding.dao/InsertDicDAO#insertSynm(Lcom.skplanet.omp.knowledgeBuilding.command.AttrData;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="insertSynmMap" id="com.skplanet.omp.knowledgeBuilding.dao/InsertDicDAO#insertSynmMap(ILjava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+  </children>
+  <diagramOptions xsi:type="options:ClassDiagramOptions" properties="wireOptions=7;Product=eUML2" autoName="false"/>
+  <boardSetting snapToGeometry="true" gridEnabled="true" gridSpacing="15,15" gridOrigin="0,0" rulerUnit="pixel" gridVisibility="false">
+    <leftRuler/>
+    <topRuler/>
+  </boardSetting>
+  <classDiagramPreferences xsi:type="editmodel:UMLClassDiagramPreference" showPopupBars="true" showConnectionHandles="true" attributeSorter="Natural" methodSorter="Natural" showClassStereotype="true" showPackageStereotype="true" showDependencyStereotype="true" showInterfaceStereotype="true" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" packageIndication="3" showAttributeProperty="true"/>
+</editmodel:ClassDiagramEditModel>

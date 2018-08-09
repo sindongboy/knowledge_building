@@ -1,0 +1,7 @@
+com.skplanet.omp.knowledgeBuilding
+com.skplanet.omp.knowledgeBuilding.Database
+com.skplanet.omp.knowledgeBuilding.Util
+com.skplanet.omp.knowledgeBuilding.command
+com.skplanet.omp.knowledgeBuilding.dao
+com.skplanet.omp.knowledgeBuilding.dict
+com.skplanet.omp.knowledgeBuilding.ohash

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="KnowledgeMapperDic">
+	<insert id="inserAttrData" parameterType="com.skplanet.omp.knowledgeBuilding.command.InsertAttrData">
+		INSERT INTO
+		kmopinionattributes_old (CategoryId, AttributeName, Registrant, RegistedDate, Updater, UpdatedDate)
+		VALUES (#{CategoryId}, #{AttributeName}, #{Writer}, NOW(), #{Writer}, NOW())
+	</insert>	
+	<insert id="inserDicData"  parameterType="com.skplanet.omp.knowledgeBuilding.command.InsertDicData">
+		INSERT INTO
+		kmopinionexpressions_old (AttributeId, ExpressionName, ExpressionValue,RepresentationId, Registrant, RegistedDate, Updater, UpdatedDate)
+		VALUES (#{AttributeId}, #{ExpressionName}, #{ExpressionValue}, #{RepresentationId},#{Writer}, NOW(), #{Writer}, NOW())
+	</insert>
+	<insert id="inserSynmData" parameterType="com.skplanet.omp.knowledgeBuilding.command.AttrData">
+		INSERT INTO
+		kmsynonym_old (AttributeId, CategoryId, RegistedDate, Registrant,  SynonymName, SynonymType, UpdatedDate, Updater)
+		VALUES (#{attr_seq}, #{CategoryId}, NOW(), #{writer}, #{synonymName}, 1, NOW(), #{writer})
+	</insert>
+	<insert id="inserSynmOrg" parameterType="com.skplanet.omp.knowledgeBuilding.command.AttrData">
+		INSERT INTO
+		kmattributesynonym_old (SynonymName, RegistedDate, Registrant,   UpdatedDate, Updater)
+		VALUES (#{synonymName}, NOW(), #{writer}, NOW(), #{writer})
+	</insert>	
+	<select id="selectDupCheck" parameterType="String" resultType="String">
+		SELECT * FROM kmopinionattributes where ATTR_SEQ = #{sql}
+	</select>
+	<select id="selectParentCategoryId" parameterType="String" resultType="String">
+		SELECT ParentCategoryId FROM kmcategory WHERE MappingId = #{CategoryID}
+	</select>
+	<select id="selectCategoryID" parameterType="String" resultType="String">
+		SELECT CategoryId FROM kmcategory WHERE CategoryID = #{CategoryID}
+	</select>
+	<select id="selectAttributeID" parameterType="String" resultType="String">
+		SELECT AttributeId FROM kmopinionattributes WHERE CategoryId = #{CategoryID}
+	</select>
+	<select id="selectRepresentationId" parameterType="String" resultType="String">
+		SELECT RepresentationId FROM kmrepresentationattribute WHERE RepresentationName = #{RepresentationId}
+	</select>
+	<select id="selectSynonymId" parameterType="String" resultType="String">
+		SELECT SynonymId FROM kmattributesynonym_old WHERE SynonymName = #{SynonymName}
+	</select>
+	<insert id="insertSynonymMapId" parameterType="com.skplanet.omp.knowledgeBuilding.command.AttrMapData">
+		INSERT INTO kmattributesynonymmapper_old (AttributeId, SynonymId)
+		VALUES (#{AttributeId}, #{SynonymId})
+	</insert>
+	<select id="selectAttr" resultType="com.skplanet.omp.knowledgeBuilding.command.AttrData" >
+		SELECT EXP_TB.ATTR_SEQ, ATTR_NM
+		FROM 
+			EXP_TB 
+		INNER JOIN
+			ATTR_TB
+		WHERE EXP_TB.ATTR_SEQ = ATTR_TB.ATTR_SEQ
+		GROUP BY ATTR_SEQ 
+	</select>
+	<select id="selectDicData" parameterType="String" resultType="com.skplanet.omp.knowledgeBuilding.command.DicDataSub">
+		SELECT EXP_NM, POS_NEG_PRCNT, SYNO,  EXP_ESSENTIAL_FLAG FROM EXP_TB WHERE ATTR_SEQ = #{attr_seq} AND EXTENSION_FLAG = 0
+	</select>
+	<select id="selectAnalysisStatus" resultType="com.skplanet.omp.knowledgeBuilding.command.AnalysisStatus">
+		SELECT B.CategoryId, C.CategoryName, A.Cluewords, A.CrawlingSiteSeqs, A.Crawlwords, A.CrawlingCategoryIDs, A.searchwords Searchwords, B.StatusType, A.searchObjectDictUse searchObjectDictUse, 
+		A.searchCategoryNameUse searchCategoryNameUse, A.naverShopping naverShopping, extractPattern1, extractPattern2, extractPattern3		
+		FROM kmbuildingsetupinfo A
+		JOIN kmbuildingstatus B
+		ON A.CategoryId = B.CategoryId
+		JOIN kmcategory C
+		ON C.CategoryId = B.CategoryId		
+		WHERE B.StatusType =  1 OR B.StatusType =  2
+	</select>	
+	<select id="getCountAnalysisStatus" resultType="Integer">
+		SELECT count(*)
+		FROM kmbuildingsetupinfo A
+		JOIN kmbuildingstatus B
+		ON A.CategoryId = B.CategoryId
+		JOIN kmcategory C
+		ON C.CategoryId = B.CategoryId		
+		WHERE B.StatusType =  1 OR B.StatusType =  2
+	</select>	
+	<select id="getAnalysisStatus" resultType="com.skplanet.omp.knowledgeBuilding.command.AnalysisStatus">
+		SELECT B.CategoryId, A.Cluewords, A.CrawlingSiteSeqs, A.Crawlwords, A.searchwords Searchwords, A.searchObjectDictUse searchObjectDictUse, A.searchObjectDictUse searchObjectDictUse,  
+		A.naverShopping naverShopping, extractPattern1, extractPattern2, extractPattern3		
+		FROM kmbuildingsetupinfo A
+		JOIN kmbuildingstatus B
+		ON A.CategoryId = B.CategoryId
+		WHERE B.StatusType =  2
+	</select>	
+	<insert id="insertAspectExpression"  parameterType="com.skplanet.omp.knowledgeBuilding.command.InsertAspectExprData">
+		INSERT INTO
+		kmbuildingattributeexpression (AttributeName, CategoryId, ExpressionName,ExpressionText, ExpressionType, ExpressionValue, RepresentationId, AttributeSynonym)
+		VALUES (#{AttributeName}, #{CategoryId}, #{ExpressionName}, #{ExpressionText},#{ExpressionType},#{ExpressionValue},#{RepresentationId},#{AttributeSynonym})
+	</insert>	
+	<delete id="deleteAspectExpression"  parameterType="String">
+		DELETE 
+		FROM 
+			kmbuildingattributeexpression 
+		WHERE 
+			CategoryId = #{CategoryId}
+	</delete>
+	<update id="updateAnalysisStatus" parameterType="com.skplanet.omp.knowledgeBuilding.command.AnalysisStatus">
+		UPDATE
+			kmbuildingstatus
+		SET
+			StatusType = #{StatusType} 
+		WHERE
+			CategoryId = #{CategoryId} and statusType <![CDATA[>=]]> 1 and statusType  <![CDATA[<=]]> 6
+	</update>
+	<select id="selectExpressionId"  parameterType="com.skplanet.omp.knowledgeBuilding.command.InsertAspectExprData" resultType="Integer">
+		SELECT COUNT(*)
+		FROM kmopinionexpressions A
+			join  kmopinionattributes B 
+			on A.AttributeId = B.AttributeId
+		WHERE B.CategoryId = #{CategoryId} and B.AttributeName = #{AttributeName} and A.ExpressionName = #{ExpressionName}
+	</select>
+	<select id="selectCommonExprStatus" resultType="Integer">
+		SELECT count(*)
+		FROM kmbuildingstatus
+		WHERE StatusType =  11
+	</select>	
+	<update id="updateCommonExprStatusStart">
+		UPDATE
+			kmbuildingstatus
+		SET
+			StatusType = 10
+		WHERE
+			StatusType = 11
+	</update>
+	<update id="updateCommonExprStatusEnd">
+		UPDATE
+			kmbuildingstatus
+		SET
+			StatusType = 11
+		WHERE
+			StatusType = 10
+	</update>
+	<delete id="deleteCommonExprStatus"  parameterType="String">
+		DELETE 
+		FROM 
+			kmbuildingstatus 
+		WHERE 
+			StatusType = 11
+	</delete>	
+	<delete id="deleteCommonExpr">
+		DELETE 
+		FROM 
+			kmbuildingcommonexpression 
+	</delete>
+	<select id="selectCrawlObjects" parameterType="String" resultType="String">
+		SELECT a.ObjectSynonymName 
+		FROM kmobjectsynonym a 
+			JOIN kmobject b 
+			ON a.ObjectId = b.ObjectId 
+		WHERE b.CategoryId = #{CategoryId}
+	</select>
+	<select id="selectSiteSeed" parameterType="String" resultType="String">
+		SELECT BaseUrlOption 
+		FROM crcrawlingsite
+		WHERE CrawlingSiteSeq = #{crawlingSiteSeq}
+	</select>	
+</mapper>

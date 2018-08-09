@@ -1,0 +1,1901 @@
+^CATEGORY_ID:-1
+^CATEGORY_NAME:GENERAL
+^CATEGORY_PATH_NAME:GENERAL/
+^CATEGORY_PATH_ID:0,
+OM1.FEA:GENERAL
+OM1.EXP:좋다	1
+OM1.EXP:괜찮다	1
+OM1.EXP:만족하다	1
+OM1.EXP:만족스럽다	1
+OM1.EXP:깔끔하다	1
+OM1.EXP:훌륭하다	2
+OM1.EXP:나쁘다	-1
+OM1.EXP:마음에 들다	1
+OM1.EXP:적당하다	1
+OM1.EXP:최고다	2
+OM1.EXP:완벽하다	2
+OM1.EXP:맘에 들다	1
+OM1.EXP:별로다	-1
+OM1.EXP:편하다	1
+OM1.EXP:기대 이상이다	1
+OM1.EXP:뛰어나다	2
+OM1.EXP:예쁘다	1
+OM1.EXP:적절하다	1
+OM1.EXP:이쁘다	1
+OM1.EXP:잘되다	1
+OM1.EXP:불만이다	-1
+OM1.EXP:불만족스럽다	-1
+OM1.EXP:실망스럽다	-1
+OM1.EXP:딱이다	1
+OM1.EXP:별루다	-1
+OM1.EXP:만족할 만하다	1
+OM1.EXP:못마땅하다	-1
+OM1.EXP:의외로 좋다	1
+OM1.EXP:이상하다	-1
+OM1.EXP:실망하다	-1
+OM1.EXP:있다	1
+OM1.EXP:고급스럽다	1
+OM1.EXP:짜증나다	-2
+OM1.EXP:짱이다	2
+OM1.EXP:굿이다	1
+OM1.EXP:형편없다	-2
+OM1.EXP:굳이다	1
+OM1.EXP:엉망진창이다	-2
+OM1.EXP:무난하다	1
+OM1.EXP:높다	1
+OM1.EXP:크다	1
+OM1.EXP:퍼펙트하다	2
+OM1.EXP:환상적이다	2
+OM1.EXP:기대보다 좋다	1
+OM1.EXP:더없이 좋다	2
+OM1.EXP:꽝이다	-2
+OM1.EXP:최악이다	-2
+OM1.EXP:되다	1
+OM1.EXP:생각보다 별로다	-1
+OM1.EXP:생각보다 별루다	-1
+OM1.EXP:영 아니다	-2
+OM1.EXP:저렴하다	1
+OM1.EXP:알맞다	1
+OM1.EXP:우수하다	2
+OM1.EXP:튼튼하다	1
+OM1.EXP:기대 이하다	-1
+OM1.EXP:비싸다	-1
+OM1.EXP:이상적이다	2
+OM1.EXP:편리하다	1
+OM1.EXP:빵점이다	-2
+OM1.EXP:부드럽다	1
+OM1.EXP:엉망이다	-2
+OM1.EXP:구리다	-1
+OM1.EXP:단연 최고다	2
+OM1.EXP:많다	1
+OM1.EXP:찌질하다	-2
+OM1.EXP:문제없다	1
+OM1.EXP:괜찮은 거 같다	1
+OM1.EXP:약하다	-1
+OM1.EXP:쩐다	2
+OM1.EXP:괜찮은 것 같다	1
+OM1.EXP:놀랍다	2
+OM1.EXP:싸다	1
+OM1.EXP:깨끗하다	1
+OM1.EXP:세련되다	1
+OM1.EXP:가격대비 최고다	2
+OM1.EXP:넉넉하다	1
+OM1.EXP:작다	0
+OM1.EXP:떨어지다	-1
+OM1.EXP:아쉽다	-1
+OM1.EXP:귀엽다	1
+OM1.EXP:착하다	1
+OM1.EXP:최상이다	2
+OM1.EXP:개판이다	-2
+OM1.EXP:기대보다 낫다	1
+OM1.EXP:대만족이다	2
+OM1.EXP:불편하다	-1
+OM1.EXP:쉽다	1
+OM1.EXP:적다	-1
+OM1.EXP:다양하다	1
+OM1.EXP:촌스럽다	-1
+OM1.EXP:쓰레기다	-2
+OM1.EXP:기대보다 못하다	-1
+OM1.EXP:미흡하다	-1
+OM1.EXP:한심하다	-2
+OM1.EXP:최고로 손꼽히다	2
+OM1.EXP:경이롭다	2
+OM1.EXP:실용적이다	1
+OM1.EXP:끝내주다	2
+OM1.EXP:돋보이다	2
+OM1.EXP:이상없다	1
+OM1.EXP:간편하다	1
+OM1.EXP:깜찍하다	1
+OM1.EXP:뭥미	-1
+OM1.EXP:부실하다	-1
+OM1.EXP:한국 최고다	2
+OM1.EXP:멋지다	1
+OM1.EXP:빠르다	1
+OM1.EXP:사랑스럽다	1
+OM1.EXP:엉성하다	-1
+OM1.EXP:가능하다	1
+OM1.EXP:낮다	-1
+OM1.EXP:산뜻하다	1
+OM1.EXP:새롭다	1
+OM1.EXP:짱짱하다	1
+OM1.EXP:늘어나기 쉽다	-1
+OM1.EXP:뻔하다	-1
+OM1.EXP:용이하다	1
+OM1.EXP:짱짱이다	2
+OM1.EXP:가볍다	1
+OM1.EXP:감탄할만하다	2
+OM1.EXP:대만족하다	2
+OM1.EXP:볼품없다	-1
+OM1.EXP:충분하다	1
+OM1.EXP:허술하다	-1
+OM1.EXP:빵빵하다	1
+OM1.EXP:심플하다	1
+OM1.EXP:심하다	-2
+OM1.EXP:쓸만하다	1
+OM1.EXP:앙증맞다	1
+OM1.EXP:탁월하다	2
+OM1.EXP:흡족하다	1
+OM1.EXP:거칠다	-1
+OM1.EXP:나다	-1
+OM1.EXP:딸리다	-1
+OM1.EXP:부담스럽다	-1
+OM1.EXP:은은하다	1
+OM1.EXP:화사하다	1
+OM1.EXP:견고하다	1
+OM1.EXP:돈 아깝다	-1
+OM1.EXP:길다	1
+OM1.EXP:단단하다	1
+OM1.EXP:독보적이다	2
+OM1.EXP:돈 낭비다	-1
+OM1.EXP:불량이다	-1
+OM1.EXP:불안정하다	-1
+OM1.EXP:허접하다	-2
+OM1.EXP:빛나다	1
+OM1.EXP:빼어나다	2
+OM1.EXP:손색없다	1
+OM1.EXP:곱다	1
+OM1.EXP:낙후되다	-1
+OM1.EXP:불완전하다	-1
+OM1.EXP:시원하다	1
+OM1.EXP:싼티나다	-1
+OM1.EXP:잘 나오다	1
+OM1.EXP:강하다	1
+OM1.EXP:간단하다	1
+OM1.EXP:선명하다	1
+OM1.EXP:우아하다	1
+OM1.EXP:자연스럽다	1
+OM1.EXP:난감하다	-1
+OM1.EXP:답답하다	-1
+OM1.EXP:성에 차다	1
+OM1.EXP:신선하다	1
+OM1.EXP:뒤떨어지다	-1
+OM1.EXP:매끄럽다	1
+OM1.EXP:어색하다	-1
+OM1.EXP:포근하다	1
+OM1.EXP:복잡하다	-1
+OM1.EXP:싸구려 같다	-1
+OM1.EXP:짜임새 있다	1
+OM1.EXP:멋있다	1
+OM1.EXP:세계 최고다	2
+OM1.EXP:어렵다	-1
+OM1.EXP:엄청나다	2
+OM1.EXP:정교하다	1
+OM1.EXP:짧다	-1
+OM1.EXP:넓다	1
+OM1.EXP:독특하다	1
+OM1.EXP:매력적이다	1
+OM1.EXP:무겁다	-1
+OM1.EXP:불만스럽다	-1
+OM1.EXP:진부하다	-1
+OM1.EXP:후지다	-1
+OM1.EXP:모자라다	-1
+OM1.EXP:밋밋하다	-1
+OM1.EXP:아름답다	1
+OM1.EXP:양호하다	1
+OM1.EXP:왕 추천하다	2
+OM1.EXP:유용하다	1
+OM1.EXP:이름값 하다	1
+OM1.EXP:한심스럽다	-2
+OM1.EXP:good	1
+OM1.EXP:믿음직스럽다	1
+OM1.EXP:부족하다	-1
+OM1.EXP:불안하다	-1
+OM1.EXP:빈약하다	-1
+OM1.EXP:빠지다	-1
+OM1.EXP:적합하다	1
+OM1.EXP:추천할 만하다	1
+OM1.EXP:퀄리티 높다	1
+OM1.EXP:포함되다	1
+OM1.EXP:개성있다	1
+OM1.EXP:기똥차다	2
+OM1.EXP:나무랄 데 없다	2
+OM1.EXP:다채롭다	1
+OM1.EXP:막강하다	2
+OM1.EXP:분위기 있다	1
+OM1.EXP:세다	1
+OM1.EXP:섹시하다	1
+OM1.EXP:심심하다	-1
+OM1.EXP:예술이다	2
+OM1.EXP:좋아지다	1
+OM1.EXP:죽이다	2
+OM1.EXP:차별화되다	1
+OM1.EXP:칙칙하다	-1
+OM1.EXP:품위 있다	1
+OM1.EXP:힘들다	-1
+OM1.EXP:덜하다	1
+OM1.EXP:만능이다	2
+OM1.EXP:문제 있다	-1
+OM1.EXP:문제되다	-1
+OM1.EXP:보장되다	1
+OM1.EXP:비싸 보이다	1
+OM1.EXP:식상하다	-1
+OM1.EXP:신경쓰다	1
+OM1.EXP:촌티나다	-1
+OM1.EXP:취약하다	-1
+OM1.EXP:푸짐하다	1
+OM1.EXP:흔하다	-1
+OM1.EXP:괜춘하다	1
+OM1.EXP:꼴불견이다	-2
+OM1.EXP:끔찍하다	-2
+OM1.EXP:너저분하다	-1
+OM1.EXP:들어있다	1
+OM1.EXP:따뜻하다	1
+OM1.EXP:똑똑하다	1
+OM1.EXP:멋드러지다	1
+OM1.EXP:문제 없다	1
+OM1.EXP:산만하다	-1
+OM1.EXP:색다르다	1
+OM1.EXP:섬세하다	1
+OM1.EXP:쓸모없다	-1
+OM1.EXP:안습이다	-1
+OM1.EXP:우월하다	1
+OM1.EXP:원활하다	1
+OM1.EXP:커지다	1
+OM1.EXP:큐트하다	1
+OM1.EXP:합리적이다	1
+OM1.EXP:허름하다	-1
+OM1.EXP:혁신적이다	1
+OM1.EXP:대단하다	2
+OM1.EXP:믿을 수 있다	1
+OM1.EXP:월등하다	2
+OM1.EXP:자랑할 만하다	1
+OM1.EXP:흡수력이 장점이다	1
+OM1.EXP:굉장하다	2
+OM1.EXP:나아지다	1
+OM1.EXP:낡다	-1
+OM1.EXP:눈에 띄다	1
+OM1.EXP:멀쩡하다	1
+OM1.EXP:보완되다	1
+OM1.EXP:수려하다	2
+OM1.EXP:수준 이하다	-1
+OM1.EXP:시원스럽다	1
+OM1.EXP:시원찮다	-1
+OM1.EXP:조화롭다	1
+OM1.EXP:질 떨어지다	-1
+OM1.EXP:질 좋다	1
+OM1.EXP:참하다	1
+OM1.EXP:풍부하다	1
+OM1.EXP:구닥다리다	-1
+OM1.EXP:기대만큼 뛰어나다	2
+OM1.EXP:기대에 못 미치다	-1
+OM1.EXP:기대와 다르다	-1
+OM1.EXP:기본에 충실하다	1
+OM1.EXP:꼬지다	-1
+OM1.EXP:꾸지다	-1
+OM1.EXP:디자인이 자랑거리다	1
+OM1.EXP:만점이다	2
+OM1.EXP:믿을만 하다	1
+OM1.EXP:바람직하다	1
+OM1.EXP:부담되다	-1
+OM1.EXP:불필요하다	-1
+OM1.EXP:사랑받을 만하다	1
+OM1.EXP:신뢰가다	1
+OM1.EXP:쓸 만하다	1
+OM1.EXP:쓸데없다	-1
+OM1.EXP:요상하다	-1
+OM1.EXP:인상적이다	1
+OM1.EXP:재미나다	1
+OM1.EXP:조으다	1
+OM1.EXP:준수하다	1
+OM1.EXP:지나치다	-1
+OM1.EXP:짜증스럽다	-2
+OM1.EXP:터무니없다	-2
+OM1.EXP:특별하다	1
+OM1.EXP:강력하다	2
+OM1.EXP:고질적 문제있다	-1
+OM1.EXP:고품질이다	2
+OM1.EXP:과감하다	1
+OM1.EXP:권유할 만하다	1
+OM1.EXP:기막히다	2
+OM1.EXP:기발하다	2
+OM1.EXP:기준 미달이다	-1
+OM1.EXP:꽤 되다	1
+OM1.EXP:나름 괜찮다	1
+OM1.EXP:나쁜 편이다	-1
+OM1.EXP:낙제수준이다	-1
+OM1.EXP:낙제점이다	-1
+OM1.EXP:넉넉하게 많은 편이다	1
+OM1.EXP:넘치다	1
+OM1.EXP:눈부시다	2
+OM1.EXP:대박용량이다	2
+OM1.EXP:대용량이다	1
+OM1.EXP:대체적으로 만족하다	1
+OM1.EXP:따봉이다	2
+OM1.EXP:딱 알맞다	2
+OM1.EXP:딱딱하다	-1
+OM1.EXP:뚱뚱해 보이다	-1
+OM1.EXP:만족할만하다	1
+OM1.EXP:많이 들다	1
+OM1.EXP:많이 들어있다	1
+OM1.EXP:말썽이다	-1
+OM1.EXP:말짱하다	1
+OM1.EXP:명성에 걸맞다	1
+OM1.EXP:모자람 없다	2
+OM1.EXP:모자람이 없다	2
+OM1.EXP:무시무시한 매력 있다	2
+OM1.EXP:문제 많다	-2
+OM1.EXP:물에 약하다	-1
+OM1.EXP:밑바닥 수준이다	-2
+OM1.EXP:반으로 줄다	-1
+OM1.EXP:발전하다	1
+OM1.EXP:방습되다	1
+OM1.EXP:백점이다	2
+OM1.EXP:범상치 않다	1
+OM1.EXP:별루이다	-1
+OM1.EXP:보완 시급하다	-2
+OM1.EXP:보완할 점 많다	-1
+OM1.EXP:보통 이상이다	1
+OM1.EXP:보통 이하다	-1
+OM1.EXP:부자연스럽다	-1
+OM1.EXP:부해 보이다	-1
+OM1.EXP:불합격하다	-1
+OM1.EXP:비루하다	-1
+OM1.EXP:비싼값 하다	1
+OM1.EXP:비싼만큼 좋다	1
+OM1.EXP:비싼티 나다	1
+OM1.EXP:뽐낼만 하다	1
+OM1.EXP:생기다	-1
+OM1.EXP:수준 미달이다	-1
+OM1.EXP:시시하다	-1
+OM1.EXP:신경 안쓴게 티나다	-1
+OM1.EXP:신뢰할 수 있다	1
+OM1.EXP:싸구려다	-1
+OM1.EXP:쌈박하다	2
+OM1.EXP:쓸데없이 크다	-1
+OM1.EXP:여유있다	1
+OM1.EXP:오래가다	1
+OM1.EXP:오염에 약하다	-1
+OM1.EXP:인색하다	-1
+OM1.EXP:적게 들다	-1
+OM1.EXP:적게 들어있다	-1
+OM1.EXP:적은 듯 하다	-1
+OM1.EXP:절묘하다	1
+OM1.EXP:정량이다	1
+OM1.EXP:조금 들어있다	-1
+OM1.EXP:조잡하다	-1
+OM1.EXP:쩨쩨하다	-1
+OM1.EXP:참신하다	2
+OM1.EXP:최첨단이다	2
+OM1.EXP:턱없이 부족하다	-2
+OM1.EXP:하잘것없다	-1
+OM1.EXP:하찮다	-1
+OM1.EXP:화나다	-2
+OM1.EXP:황당하다	-2
+OM1.EXP:황홀하다	2
+OM1.EXP:후하다	1
+OM1.EXP:흉하다	-2
+OM1.EXP:흡수력 없다	-2
+OM1.EXP:흥미롭다	1
+OM1.EXP:갑갑하다	-1
+OM1.EXP:고르다	1
+OM1.EXP:꼼꼼하다	1
+OM1.EXP:남다르다	1
+OM1.EXP:덥다	-1
+OM1.EXP:매끈하다	1
+OM1.EXP:안정감 있다	1
+OM1.EXP:유명하다	1
+OM1.EXP:잘나다	-2
+OM1.EXP:짝퉁같다	-2
+OM1.EXP:거북스럽다	-1
+OM1.EXP:거북하다	-1
+OM1.EXP:겸비하다	1
+OM1.EXP:까칠하다	-1
+OM1.EXP:물에 강하다	1
+OM1.EXP:보드랍다	1
+OM1.EXP:손이 가다	1
+OM1.EXP:아쉬움 남다	-1
+OM1.EXP:아시아 최고다	2
+OM1.EXP:어설프다	-1
+OM1.EXP:인기 있다	1
+OM1.EXP:투박하다	-1
+OM1.EXP:편안하다	1
+OM1.EXP:후줄근하다	-1
+OM1.EXP:가다	-1
+OM1.EXP:감동적이다	2
+OM1.EXP:결여되다	-1
+OM1.EXP:경쟁력 있다	1
+OM1.EXP:계절과 맞다	1
+OM1.EXP:계절에 어울리다	1
+OM1.EXP:고풍스럽다	1
+OM1.EXP:구겨지다	-1
+OM1.EXP:국산이다	1
+OM1.EXP:기능성이다	1
+OM1.EXP:까슬까슬 하다	-1
+OM1.EXP:끊기다	-1
+OM1.EXP:나무랄 곳 없다	1
+OM1.EXP:눈비오는날 걱정없다	1
+OM1.EXP:더워보여서 싫다	-1
+OM1.EXP:더워보이다	-1
+OM1.EXP:덜되다	-1
+OM1.EXP:따갑다	-1
+OM1.EXP:땀 차다	-1
+OM1.EXP:땀 흡수하다	1
+OM1.EXP:땀차다	-1
+OM1.EXP:때타다	-1
+OM1.EXP:러블리하다	1
+OM1.EXP:럭셔리하다	1
+OM1.EXP:링클프리다	1
+OM1.EXP:맛있다	1
+OM1.EXP:먼지 잘 끼다	-1
+OM1.EXP:먼지 잘 묻다	-1
+OM1.EXP:먼지 잘 붙다	-1
+OM1.EXP:먼지 잘 타다	-1
+OM1.EXP:물이 새다	-1
+OM1.EXP:방수되다	1
+OM1.EXP:방풍되다	1
+OM1.EXP:보들보들 하다	1
+OM1.EXP:부들부들 하다	1
+OM1.EXP:불량하다	-2
+OM1.EXP:불에 강하다	1
+OM1.EXP:불에 약하다	-1
+OM1.EXP:불연성 이다	1
+OM1.EXP:비싼 티 나다	1
+OM1.EXP:사자마자 망가지다	-2
+OM1.EXP:성글다	-1
+OM1.EXP:속이 훤하게 비치다	-1
+OM1.EXP:순면소재다	1
+OM1.EXP:쉽게 늘어지다	-1
+OM1.EXP:쉽게 망가지다	-2
+OM1.EXP:쉽게 손상되다	-1
+OM1.EXP:싸 보이다	-1
+OM1.EXP:싼티 흐르다	-1
+OM1.EXP:얇다	-1
+OM1.EXP:양면 사용 가능하다	1
+OM1.EXP:어이없다	-2
+OM1.EXP:어정쩡하다	-1
+OM1.EXP:어중간하다	-1
+OM1.EXP:얼룩이 잘지워지다	1
+OM1.EXP:없어보이다	-1
+OM1.EXP:열에 녹다	-1
+OM1.EXP:일다	-1
+OM1.EXP:입기 적당하다	1
+OM1.EXP:자연친화적이다	1
+OM1.EXP:잘 늘어나다	-1
+OM1.EXP:저가 원단이다	-1
+OM1.EXP:적당히 늘어나다	1
+OM1.EXP:젊다	1
+OM1.EXP:젖어도 번짐없다	1
+OM1.EXP:제로다	-1
+OM1.EXP:창의적이다	1
+OM1.EXP:창조적이다	1
+OM1.EXP:천연이다	1
+OM1.EXP:최하급이다	-2
+OM1.EXP:친근하다	1
+OM1.EXP:친숙하다	1
+OM1.EXP:친환경이다	1
+OM1.EXP:퀄리티 남다르다	1
+OM1.EXP:탄력 있다	1
+OM1.EXP:탄탄하다	1
+OM1.EXP:털 날리다	-1
+OM1.EXP:화재에 취약하다	-1
+OM1.EXP:확실하다	2
+OM1.EXP:환경을 생각하다	1
+OM1.EXP:흐물거리다	-1
+OM1.EXP:간지 나다	1
+OM1.EXP:간지 넘치다	2
+OM1.EXP:간지 흐르다	2
+OM1.EXP:감각적이다	1
+OM1.EXP:감동스럽다	2
+OM1.EXP:감성이 묻어나다	1
+OM1.EXP:감성적이다	1
+OM1.EXP:강렬하다	2
+OM1.EXP:개념없다	-1
+OM1.EXP:개판 오분전이다	-2
+OM1.EXP:걸레같다	-2
+OM1.EXP:겉만 번지르르하다	-1
+OM1.EXP:격조 낮다	-1
+OM1.EXP:격조 높다	1
+OM1.EXP:경박스럽다	-2
+OM1.EXP:경박하다	-2
+OM1.EXP:고루하다	-1
+OM1.EXP:고리타분하다	-1
+OM1.EXP:고유하다	1
+OM1.EXP:고품격이다	2
+OM1.EXP:곱디곱다	2
+OM1.EXP:관심 끌다	1
+OM1.EXP:관심받을 만 하다	1
+OM1.EXP:괴상하다	-1
+OM1.EXP:괴이하다	-1
+OM1.EXP:군더더기 없다	1
+OM1.EXP:귀티 나다	1
+OM1.EXP:귀티 흐르다	1
+OM1.EXP:그럴 듯 하다	1
+OM1.EXP:그럴듯하다	1
+OM1.EXP:그럴싸하다	1
+OM1.EXP:기괴하다	-1
+OM1.EXP:기본 안되다	-1
+OM1.EXP:깔끔하고 예쁘다	1
+OM1.EXP:꼴사납다	-2
+OM1.EXP:끌리다	2
+OM1.EXP:나무랄 곳이 없다	2
+OM1.EXP:난해하다	-1
+OM1.EXP:남사스럽다	-1
+OM1.EXP:내 스타일이다	1
+OM1.EXP:눈길 가다	1
+OM1.EXP:눈길 끌다	1
+OM1.EXP:눈부시게 아름답다	2
+OM1.EXP:눈부시도록 아름답다	2
+OM1.EXP:눈살 찌푸려지다	-2
+OM1.EXP:눈에 차다	1
+OM1.EXP:느낌 좋다	1
+OM1.EXP:다이내믹하다	1
+OM1.EXP:단아하다	1
+OM1.EXP:단정하다	1
+OM1.EXP:당혹스럽다	-2
+OM1.EXP:당황스럽다	-2
+OM1.EXP:대담하다	1
+OM1.EXP:독창성 있다	1
+OM1.EXP:독창적이다	1
+OM1.EXP:두껍다	1
+OM1.EXP:둔해 보이다	-1
+OM1.EXP:디테일 하다	1
+OM1.EXP:마이너스 요소다	-1
+OM1.EXP:맞다	1
+OM1.EXP:맞춤이다	1
+OM1.EXP:멀끔하다	1
+OM1.EXP:명품 수준이다	2
+OM1.EXP:모던하다	1
+OM1.EXP:문제있다	-1
+OM1.EXP:뭔가 허전하다	-1
+OM1.EXP:미끈하다	1
+OM1.EXP:미래지향적이다	1
+OM1.EXP:밉다	-1
+OM1.EXP:밋밋해 보이다	-1
+OM1.EXP:베낀것 같다	-2
+OM1.EXP:보기만해도 뿌듯하다	1
+OM1.EXP:볼만하다	1
+OM1.EXP:부끄럽다	-1
+OM1.EXP:비슷비슷하다	-1
+OM1.EXP:빈티 나다	-1
+OM1.EXP:뽀대나다	1
+OM1.EXP:삭막하다	-1
+OM1.EXP:성숙하다	1
+OM1.EXP:센스 있다	1
+OM1.EXP:소장가치 있다	1
+OM1.EXP:쉬크하다	1
+OM1.EXP:스타일리쉬하다	1
+OM1.EXP:시대에 맞다	1
+OM1.EXP:시대에 역행하다	-1
+OM1.EXP:신비롭다	1
+OM1.EXP:심플하고 괜찮다	1
+OM1.EXP:쌈박해서 기대 이상이다	2
+OM1.EXP:쌈박해서 딱이다	2
+OM1.EXP:쌈박해서 마음에 들다	2
+OM1.EXP:쌈박해서 맘에 들다	2
+OM1.EXP:쌈박해서 최고다	2
+OM1.EXP:아기자기 하다	1
+OM1.EXP:아이디어 멋지다	1
+OM1.EXP:안타깝다	-1
+OM1.EXP:압권이다	2
+OM1.EXP:앙증맞게 귀엽다	1
+OM1.EXP:앙증스럽다	1
+OM1.EXP:어디서 본듯하다	-1
+OM1.EXP:어여쁘다	1
+OM1.EXP:엣지있다	1
+OM1.EXP:여심 사로잡다	2
+OM1.EXP:예쁘게 나오다	1
+OM1.EXP:예사롭지 않다	1
+OM1.EXP:예술품 같다	2
+OM1.EXP:오감을 만족시키다	1
+OM1.EXP:왕짜증나다	-2
+OM1.EXP:요즘 트랜드다	1
+OM1.EXP:우습다	-2
+OM1.EXP:우울하다	-1
+OM1.EXP:위대하다	2
+OM1.EXP:유니크하다	1
+OM1.EXP:유일하다	1
+OM1.EXP:유행을 선도하다	1
+OM1.EXP:유행을 이끌다	1
+OM1.EXP:이미테이션 같다	-1
+OM1.EXP:이채롭다	1
+OM1.EXP:이해하기 힘들다	-1
+OM1.EXP:자부할 만하다	1
+OM1.EXP:작렬이다	2
+OM1.EXP:잼나다	1
+OM1.EXP:정돈되다	1
+OM1.EXP:정돈된 느낌을 주다	1
+OM1.EXP:지겹다	-1
+OM1.EXP:천박하다	-2
+OM1.EXP:친환경적이다	1
+OM1.EXP:콘셉트 모르겠다	-1
+OM1.EXP:콘셉트 부족하다	-1
+OM1.EXP:큐트해 보이다	1
+OM1.EXP:튀지 않으면서 부담없다	1
+OM1.EXP:트렌드 이끌다	1
+OM1.EXP:평범하게 보이다	-1
+OM1.EXP:프로페셔널하다	1
+OM1.EXP:한정판이다	1
+OM1.EXP:해괴망측하다	-2
+OM1.EXP:해괴하다	-2
+OM1.EXP:흉측하다	-2
+OM1.EXP:흠 투성이다	-1
+OM1.EXP:믿을만하다	1
+OM1.EXP:수월하다	1
+OM1.EXP:스마트하다	1
+OM1.EXP:잘빠지다	1
+OM1.EXP:죽인다	2
+OM1.EXP:큼직하다	1
+OM1.EXP:향상되다	1
+OM1.EXP:느리다	-1
+OM1.EXP:맑다	1
+OM1.EXP:못보던 디자인이다	1
+OM1.EXP:변색되다	-1
+OM1.EXP:안쓰럽다	-1
+OM1.EXP:어지럽다	-1
+OM1.EXP:예쁘장하다	1
+OM1.EXP:요긴하다	1
+OM1.EXP:두툼하다	1
+OM1.EXP:살아있다	1
+OM1.EXP:야무지다	1
+OM1.EXP:예상외로 좋다	1
+OM1.EXP:조용하다	1
+OM1.EXP:튼실하다	1
+OM1.EXP:흐리다	-1
+OM1.EXP:강화되다	1
+OM1.EXP:거슬리다	-1
+OM1.EXP:곱디 곱다	2
+OM1.EXP:구리구리 하다	-1
+OM1.EXP:기대한 대로 나오다	1
+OM1.EXP:나름대로 이쁘다	1
+OM1.EXP:내추럴 하다	1
+OM1.EXP:눈 편하다	1
+OM1.EXP:눈에 피로감 주다	-1
+OM1.EXP:다소 아쉽다	-1
+OM1.EXP:도시적이다	1
+OM1.EXP:디자인과 어울리다	1
+OM1.EXP:때깔나다	2
+OM1.EXP:러블리 하다	1
+OM1.EXP:멋지게 빠지다	1
+OM1.EXP:바래보이다	-1
+OM1.EXP:밝다	0
+OM1.EXP:샤방하다	1
+OM1.EXP:세련미 넘치다	2
+OM1.EXP:순하다	1
+OM1.EXP:신비하다	1
+OM1.EXP:실망스러운 색이다	-1
+OM1.EXP:심각하다	-2
+OM1.EXP:아담하다	1
+OM1.EXP:아리송하다	-1
+OM1.EXP:없다	1
+OM1.EXP:에러다	-1
+OM1.EXP:우중충하다	-1
+OM1.EXP:이미 있다	-1
+OM1.EXP:자극적이다	-1
+OM1.EXP:잡색 섞이다	-1
+OM1.EXP:잡스럽다	-1
+OM1.EXP:좀 그렇다	-1
+OM1.EXP:좁다	-1
+OM1.EXP:직관적이다	1
+OM1.EXP:촌스러운 색이다	-1
+OM1.EXP:촌스러움의 극치를 달리다	-2
+OM1.EXP:최근이다	1
+OM1.EXP:추하다	-1
+OM1.EXP:충격적이다	-1
+OM1.EXP:퀄리티 좋다	1
+OM1.EXP:탁하다	-1
+OM1.EXP:파스텔색 돋보이다	1
+OM1.EXP:파스텔톤 돋보이다	1
+OM1.EXP:푹신하다	1
+OM1.EXP:혼탁하다	-1
+OM1.EXP:흐릿하다	-1
+OM1.EXP:간지나다	1
+OM1.EXP:개선되다	1
+OM1.EXP:도톰하다	1
+OM1.EXP:만만하다	1
+OM1.EXP:맘에들다	1
+OM1.EXP:미약하다	-1
+OM1.EXP:뻑뻑하다	-1
+OM1.EXP:삐뚤다	-1
+OM1.EXP:신상이다	1
+OM1.EXP:쎄다	1
+OM1.EXP:쓰기 불편하다	-1
+OM1.EXP:쓰기 편하다	1
+OM1.EXP:앞서다	1
+OM1.EXP:지저분하다	-1
+OM1.EXP:차분하다	1
+OM1.EXP:틀어지다	-1
+OM1.EXP:가격대비 최상이다	2
+OM1.EXP:감탄할 만하다	1
+OM1.EXP:강력추천	2
+OM1.EXP:같잖다	-2
+OM1.EXP:거적데기 같다	-1
+OM1.EXP:걱정되다	-1
+OM1.EXP:고급이다	1
+OM1.EXP:기능이 자랑거리다	1
+OM1.EXP:기능이 장점이다	1
+OM1.EXP:기분좋다	1
+OM1.EXP:난장판이다	-2
+OM1.EXP:날씬해 보이다	1
+OM1.EXP:내 타입이다	1
+OM1.EXP:내추럴하다	1
+OM1.EXP:노친네 같다	-1
+OM1.EXP:노티나서 나쁘다	-1
+OM1.EXP:노티나서 불만이다	-1
+OM1.EXP:노티나서 실망하다	-1
+OM1.EXP:노티나서 싫다	-1
+OM1.EXP:노티나서 아쉽다	-1
+OM1.EXP:노티나서 짜증나다	-2
+OM1.EXP:노티나서 최악이다	-2
+OM1.EXP:누구나 갖고 싶어하다	2
+OM1.EXP:누구든지 어울리다	2
+OM1.EXP:누구에게나 어울리다	2
+OM1.EXP:느슨하다	-1
+OM1.EXP:다리 길어보이다	1
+OM1.EXP:뒤죽박죽이다	-1
+OM1.EXP:뒤지다	-1
+OM1.EXP:마음에들다	1
+OM1.EXP:맛나다	1
+OM1.EXP:망측스럽다	-2
+OM1.EXP:망측하다	-2
+OM1.EXP:멋들어지다	1
+OM1.EXP:명성값 하다	1
+OM1.EXP:뭉개지다	-1
+OM1.EXP:반짝반짝하다	1
+OM1.EXP:발랄하다	1
+OM1.EXP:번잡하다	-1
+OM1.EXP:변화무쌍하다	1
+OM1.EXP:보기 좋다	1
+OM1.EXP:보잘것없다	-1
+OM1.EXP:부조화스럽다	-1
+OM1.EXP:삐뚤어지다	-1
+OM1.EXP:상당하다	2
+OM1.EXP:상쾌하다	1
+OM1.EXP:상큼하다	1
+OM1.EXP:생기발랄하다	1
+OM1.EXP:생동감있다	1
+OM1.EXP:생동적이다	1
+OM1.EXP:쉽게 되다	1
+OM1.EXP:스타일 연출 수월하다	1
+OM1.EXP:스타일 연출 쉽다	1
+OM1.EXP:스타일 연출 어렵다	-1
+OM1.EXP:스포티하다	1
+OM1.EXP:슬림하다	1
+OM1.EXP:신선함이 떨어지다	-1
+OM1.EXP:심하게 파지다	-2
+OM1.EXP:아기자기하다	1
+OM1.EXP:안정적이다	1
+OM1.EXP:얌전해 보이다	1
+OM1.EXP:어수룩하다	-1
+OM1.EXP:어수선하다	-1
+OM1.EXP:역동적이다	1
+OM1.EXP:역하다	-2
+OM1.EXP:예뻐보여서 괜찮다	1
+OM1.EXP:예뻐보여서 딱이다	1
+OM1.EXP:예뻐보여서 만족하다	1
+OM1.EXP:예뻐보여서 좋다	1
+OM1.EXP:예뻐보여서 최고다	2
+OM1.EXP:예뻐보여서 훌륭하다	2
+OM1.EXP:예뻐보이다	1
+OM1.EXP:오래 걸리다	-1
+OM1.EXP:요란하다	-1
+OM1.EXP:울다	-1
+OM1.EXP:유아틱하다	-1
+OM1.EXP:유치하다	-1
+OM1.EXP:유행에 맞다	1
+OM1.EXP:의문스럽다	-1
+OM1.EXP:인공지능이다	1
+OM1.EXP:입고 벗기 불편하다	-1
+OM1.EXP:입고 벗기 편하다	1
+OM1.EXP:입기 불편하다	-1
+OM1.EXP:입기 편하다	1
+OM1.EXP:입체적이다	1
+OM1.EXP:잘못되다	-1
+OM1.EXP:젊고 트렌디하다	1
+OM1.EXP:정신사납다	-1
+OM1.EXP:정신없다	-1
+OM1.EXP:조신해 보이다	1
+OM1.EXP:조절되다	1
+OM1.EXP:좋아하다	1
+OM1.EXP:지원되다	1
+OM1.EXP:질리다	-1
+OM1.EXP:차가와 보이다	-1
+OM1.EXP:촌발날리다	-1
+OM1.EXP:촘촘하다	1
+OM1.EXP:최고	2
+OM1.EXP:케케묵다	-1
+OM1.EXP:코디 용이하다	1
+OM1.EXP:코디하기 어렵다	-1
+OM1.EXP:코디하기 좋다	1
+OM1.EXP:팔이 길다	-1
+OM1.EXP:팔이 짧다	-1
+OM1.EXP:펑퍼짐하다	-1
+OM1.EXP:풋풋하다	1
+OM1.EXP:화보같다	2
+OM1.EXP:경제적이다	1
+OM1.EXP:근사하다	1
+OM1.EXP:달리다	0
+OM1.EXP:똑부러지다	1
+OM1.EXP:번거롭다	-1
+OM1.EXP:시원시원하다	1
+OM1.EXP:안심되다	1
+OM1.EXP:어둡다	-1
+OM1.EXP:역겹다	-2
+OM1.EXP:우려되다	-1
+OM1.EXP:이상있다	-1
+OM1.EXP:재미있다	1
+OM1.EXP:진화하다	1
+OM1.EXP:추가되다	1
+OM1.EXP:포인트가 너무 많다	-1
+OM1.EXP:향긋하다	1
+OM1.EXP:개운하다	1
+OM1.EXP:거부감 들다	-1
+OM1.EXP:걱정없다	1
+OM1.EXP:깊다	1
+OM1.EXP:까다롭다	-1
+OM1.EXP:늦다	-1
+OM1.EXP:문제이다	-1
+OM1.EXP:버겁다	-1
+OM1.EXP:보들보들하다	1
+OM1.EXP:분리되다	1
+OM1.EXP:불만족하다	-1
+OM1.EXP:쉬운 편이다	1
+OM1.EXP:실망이다	-1
+OM1.EXP:싫다	-1
+OM1.EXP:알차다	1
+OM1.EXP:오르다	-1
+OM1.EXP:유기농이다	1
+OM1.EXP:적정하다	1
+OM1.EXP:전국최고다	2
+OM1.EXP:절약되다	1
+OM1.EXP:찌그러지다	0
+OM1.EXP:찜찜하다	-1
+OM1.EXP:튀다	0
+OM1.EXP:가격대비 만족하다	1
+OM1.EXP:개선 필요하다	-1
+OM1.EXP:건강에 좋다	1
+OM1.EXP:그윽하다	1
+OM1.EXP:낮아지다	-1
+OM1.EXP:단순하다	1
+OM1.EXP:돈 낭비하다	-1
+OM1.EXP:만만찮다	-1
+OM1.EXP:미비하다	-1
+OM1.EXP:믿음 가다	1
+OM1.EXP:바래다	-1
+OM1.EXP:상승하다	1
+OM1.EXP:속이 꽉차다	2
+OM1.EXP:손쉽다	1
+OM1.EXP:쉽게 상하다	-1
+OM1.EXP:쓰면서 스트레스 받다	-1
+OM1.EXP:안전하다	1
+OM1.EXP:안정되다	1
+OM1.EXP:애매하다	-1
+OM1.EXP:업그레이드 되다	1
+OM1.EXP:염분 적다	1
+OM1.EXP:유기농 제품이다	1
+OM1.EXP:유전자변형농산물이다	-1
+OM1.EXP:자유롭다	1
+OM1.EXP:잘 되다	1
+OM1.EXP:조잡스럽다	-1
+OM1.EXP:증가하다	1
+OM1.EXP:지장없다	1
+OM1.EXP:진하다	0
+OM1.EXP:쩔다	2
+OM1.EXP:폭신하다	1
+OM1.EXP:환경호르몬 검출되다	-2
+OM1.EXP:환경호르몬 무검출되다	2
+OM1.EXP:획기적이다	2
+OM1.EXP:효율적이다	1
+OM1.EXP:가격대비 괜찮다	1
+OM1.EXP:가격대비 우수하다	2
+OM1.EXP:가격대비 좋다	1
+OM1.EXP:가격대비 훌륭하다	2
+OM1.EXP:가습되다	1
+OM1.EXP:거지같다	-2
+OM1.EXP:검증되다	1
+OM1.EXP:경쾌하다	1
+OM1.EXP:고객 편의 고려하다	1
+OM1.EXP:고객에게 최적화되다	2
+OM1.EXP:고약스럽다	-2
+OM1.EXP:고약하다	-2
+OM1.EXP:고장없다	1
+OM1.EXP:골 아프다	-1
+OM1.EXP:골치 아프다	-1
+OM1.EXP:과다하다	-1
+OM1.EXP:구수하다	1
+OM1.EXP:금방 사라지다	-1
+OM1.EXP:금새 사라지다	-1
+OM1.EXP:기분나쁘다	-1
+OM1.EXP:기상천외하다	2
+OM1.EXP:기특하다	2
+OM1.EXP:꽃냄새나다	1
+OM1.EXP:꽃향기나다	1
+OM1.EXP:꿀리다	-1
+OM1.EXP:끈적거리다	-1
+OM1.EXP:나오다	-1
+OM1.EXP:내장되다	1
+OM1.EXP:다기능이다	1
+OM1.EXP:다루기 쉽다	1
+OM1.EXP:다루기 힘들다	-1
+OM1.EXP:다용도다	1
+OM1.EXP:다재다능하다	1
+OM1.EXP:단촐하다	1
+OM1.EXP:독하다	-1
+OM1.EXP:둥글다	0
+OM1.EXP:뒤쳐지다	-1
+OM1.EXP:들다	-1
+OM1.EXP:디테일 살아있다	1
+OM1.EXP:딱 좋다	2
+OM1.EXP:똑소리 나다	1
+OM1.EXP:막장이다	-2
+OM1.EXP:매혹적이다	1
+OM1.EXP:머리 아프다	-1
+OM1.EXP:멈추다	-1
+OM1.EXP:멍청하다	-1
+OM1.EXP:못 먹겠다	-2
+OM1.EXP:무궁무진하다	1
+OM1.EXP:물기 잘 빠지다	1
+OM1.EXP:묽다	0
+OM1.EXP:미완성이다	-1
+OM1.EXP:미진하다	-2
+OM1.EXP:믿을 만하다	1
+OM1.EXP:밍밍하고 느끼하다	-1
+OM1.EXP:바닥이다	-2
+OM1.EXP:반영구적이다	1
+OM1.EXP:발전되다	1
+OM1.EXP:방전 잦다	-1
+OM1.EXP:버그투성이다	-2
+OM1.EXP:번들거리다	-1
+OM1.EXP:별거 없다	-1
+OM1.EXP:보잘것 없다	-2
+OM1.EXP:보충되다	1
+OM1.EXP:복잡하고 불편하다	-2
+OM1.EXP:부담 되다	-1
+OM1.EXP:불가능하다	-1
+OM1.EXP:불충분하다	-1
+OM1.EXP:불쾌하다	-2
+OM1.EXP:비교대상 없다	2
+OM1.EXP:비교되다	-1
+OM1.EXP:빨리 닳다	-1
+OM1.EXP:빨리 되다	1
+OM1.EXP:빨리 없어지다	-1
+OM1.EXP:뾰족하다	-1
+OM1.EXP:사용자에게 최적화되다	2
+OM1.EXP:사용하기 불편하다	-1
+OM1.EXP:사용하기 좋다	1
+OM1.EXP:사용하기 편하다	1
+OM1.EXP:사용하는데 어려움 없다	1
+OM1.EXP:생각나는 맛이다	1
+OM1.EXP:성가시다	-1
+OM1.EXP:속 풀어주다	1
+OM1.EXP:손떨림 방지되다	1
+OM1.EXP:손떨림 보정되다	1
+OM1.EXP:수월한 편이다	1
+OM1.EXP:숙지하기 쉽다	1
+OM1.EXP:숨 참게 하다	-1
+OM1.EXP:스마트폰과 연동되다	1
+OM1.EXP:신식이다	1
+OM1.EXP:실속있다	1
+OM1.EXP:심각한 것 같다	-2
+OM1.EXP:쏠리게 하다	-2
+OM1.EXP:쏠리다	-2
+OM1.EXP:쓰기 나쁘다	-1
+OM1.EXP:쓰기 좋다	1
+OM1.EXP:쓰잘데기 없다	-2
+OM1.EXP:쓸데없이 많다	-1
+OM1.EXP:쓸수록 마음에 들다	1
+OM1.EXP:씹기 불편하다	-1
+OM1.EXP:씹기 힘들다	-1
+OM1.EXP:아가냄새다	1
+OM1.EXP:압도적이다	2
+OM1.EXP:애기냄새나다	1
+OM1.EXP:약냄새나다	-1
+OM1.EXP:어울린다	1
+OM1.EXP:없느니만 못하다	-2
+OM1.EXP:없애는 것이 낫다	-2
+OM1.EXP:없애는 편이 낫다	-2
+OM1.EXP:없애는게 낫다	-2
+OM1.EXP:역하기만 하다	-2
+OM1.EXP:영구적이다	2
+OM1.EXP:예약기능되다	1
+OM1.EXP:오래 못가다	-1
+OM1.EXP:오래되어도 멀쩡하다	1
+OM1.EXP:오래쓰지 못하다	-1
+OM1.EXP:오류 많다	-2
+OM1.EXP:오류 있다	-1
+OM1.EXP:오류 적다	1
+OM1.EXP:오류투성이다	-2
+OM1.EXP:오작동하다	-1
+OM1.EXP:와이파이존 이용 가능하다	1
+OM1.EXP:완전하다	2
+OM1.EXP:왜 넣었는지 모르겠다	-1
+OM1.EXP:우세하다	1
+OM1.EXP:유익하다	1
+OM1.EXP:의심스럽다	-1
+OM1.EXP:이롭다	1
+OM1.EXP:이미 있는 디자인이다	-1
+OM1.EXP:이상스럽다	-1
+OM1.EXP:인코딩없이 재생된다	1
+OM1.EXP:일거양득이다	1
+OM1.EXP:일석이조다	1
+OM1.EXP:입에 맞다	1
+OM1.EXP:자동으로 설정되다	1
+OM1.EXP:자동으로 세팅되다	1
+OM1.EXP:자동으로 소독되다	1
+OM1.EXP:자동이다	1
+OM1.EXP:작살이다	2
+OM1.EXP:잔잔하다	1
+OM1.EXP:잘나오다	1
+OM1.EXP:잘되는 편이다	1
+OM1.EXP:잡다하다	-1
+OM1.EXP:잡히다	1
+OM1.EXP:장애 많다	-2
+OM1.EXP:장애 있다	-1
+OM1.EXP:장애투성이다	-2
+OM1.EXP:잦다	-2
+OM1.EXP:재생되다	1
+OM1.EXP:저소음 설계 되다	1
+OM1.EXP:적정수준이다	1
+OM1.EXP:접촉 불량이다	-1
+OM1.EXP:정갈하다	1
+OM1.EXP:제값하다	1
+OM1.EXP:조악하다	-1
+OM1.EXP:좋아할 만하다	1
+OM1.EXP:좋은 편이다	1
+OM1.EXP:좋은편이다	1
+OM1.EXP:좋지않은 냄새나다	-1
+OM1.EXP:죽여주다	2
+OM1.EXP:지독하다	-2
+OM1.EXP:지연되다	-1
+OM1.EXP:짜다	-1
+OM1.EXP:짜증나게 만들다	-2
+OM1.EXP:찌질하기 짝이 없다	-2
+OM1.EXP:참기 힘들 정도다	-2
+OM1.EXP:참기 힘들다	-2
+OM1.EXP:찾던 냄새다	1
+OM1.EXP:체계적이다	1
+OM1.EXP:촉촉하다	1
+OM1.EXP:최고이다	2
+OM1.EXP:충격에 강하다	1
+OM1.EXP:충실하다	1
+OM1.EXP:치솟다	-2
+OM1.EXP:캐안습이다	-2
+OM1.EXP:코를 쥐게 하다	-2
+OM1.EXP:코를 틀어막게 하다	-2
+OM1.EXP:콤팩트하다	1
+OM1.EXP:킹왕짱이다	2
+OM1.EXP:탑재되다	1
+OM1.EXP:특화되다	1
+OM1.EXP:폼나다	2
+OM1.EXP:피부에 좋다	1
+OM1.EXP:하이브리드다	1
+OM1.EXP:향기롭다	1
+OM1.EXP:혼선 일어나다	-1
+OM1.EXP:휴대성이 장점이다	1
+OM1.EXP:흔들리다	-1
+OM1.EXP:희귀하다	1
+OM1.EXP:0 점이다	-2
+OM1.EXP:1 등급이다	2
+OM1.EXP:가격 대비 좋다	1
+OM1.EXP:가격대비 딱이다	2
+OM1.EXP:가격대비 만족스럽다	1
+OM1.EXP:가격대비 양호하다	1
+OM1.EXP:가격대비 완벽하다	2
+OM1.EXP:가격대비 짱이다	2
+OM1.EXP:가격만큼의 가치 아니다	-1
+OM1.EXP:가격에 알맞은 제품이다	1
+OM1.EXP:가득하다	1
+OM1.EXP:가스 차다	-1
+OM1.EXP:가지고 다니기 불편하다	-1
+OM1.EXP:가지고 다니기 편하다	1
+OM1.EXP:각질 제거 되다	1
+OM1.EXP:감소되다	-1
+OM1.EXP:감소하다	-1
+OM1.EXP:갑갑할 정도로 작다	-2
+OM1.EXP:개선된 점 보이다	1
+OM1.EXP:걱정 되다	-1
+OM1.EXP:걱정 안해도 되다	2
+OM1.EXP:걱정될 정도다	-1
+OM1.EXP:걱정스럽다	-1
+OM1.EXP:걱정안해도 되다	1
+OM1.EXP:건강식으로 알맞다	1
+OM1.EXP:건강식이다	1
+OM1.EXP:건조하다	-1
+OM1.EXP:겨울에 잘 얼다	-2
+OM1.EXP:결핍되다	-1
+OM1.EXP:경쟁상대 없다	2
+OM1.EXP:고 내열성이다	1
+OM1.EXP:고단백 저칼로리다	2
+OM1.EXP:고르게 발리다	1
+OM1.EXP:고만고만하다	0
+OM1.EXP:고성능이다	2
+OM1.EXP:고염분이다	-1
+OM1.EXP:고영양이다	1
+OM1.EXP:고장 없다	1
+OM1.EXP:고장나다	0
+OM1.EXP:고정되다	1
+OM1.EXP:고지방이다	-1
+OM1.EXP:고출력이다	1
+OM1.EXP:고칼로리다	-1
+OM1.EXP:골고루 들어있다	1
+OM1.EXP:골고루 있다	1
+OM1.EXP:공간 많이 차지하다	-1
+OM1.EXP:공간 작게 차지하다	1
+OM1.EXP:구미 당기다	1
+OM1.EXP:구토 유발하다	-1
+OM1.EXP:규칙적으로 발생하다	-1
+OM1.EXP:균형이 맞다	1
+OM1.EXP:균형잡히다	1
+OM1.EXP:그만이다	1
+OM1.EXP:그저 그렇다	-1
+OM1.EXP:극대화되다	2
+OM1.EXP:근력강화에 도움 되다	1
+OM1.EXP:금방 닳다	-1
+OM1.EXP:금새 스며들다	1
+OM1.EXP:깔끔하게 발라지다	1
+OM1.EXP:깨지다	-1
+OM1.EXP:끈적이는게 흠이다	-1
+OM1.EXP:끼다	-1
+OM1.EXP:남다른 촉촉함 있다	1
+OM1.EXP:내려가다	1
+OM1.EXP:널찍하다	1
+OM1.EXP:넓직하다	1
+OM1.EXP:노화방지에 좋다	1
+OM1.EXP:논란 있다	-1
+OM1.EXP:놀랍도록 우수하다	2
+OM1.EXP:놀랍도록 훌륭하다	2
+OM1.EXP:높아지다	1
+OM1.EXP:느끼하다	-1
+OM1.EXP:다 들어있다	2
+OM1.EXP:다이나믹하다	1
+OM1.EXP:다이옥신 검출되다	-2
+OM1.EXP:대박이다	2
+OM1.EXP:대장균 나오다	-2
+OM1.EXP:대장균 발견되다	-2
+OM1.EXP:더디다	-1
+OM1.EXP:도마위에 오르다	-1
+OM1.EXP:동그랗다	0
+OM1.EXP:동봉되다	1
+OM1.EXP:두껍게 뭉치다	-1
+OM1.EXP:두뇌발달을 돕는다	1
+OM1.EXP:두드러기 나다	-1
+OM1.EXP:두배다	1
+OM1.EXP:든든하다	1
+OM1.EXP:들기 수월하다	1
+OM1.EXP:들기 좋다	1
+OM1.EXP:들기 편하다	1
+OM1.EXP:듬뿍있다	2
+OM1.EXP:디테일하다	1
+OM1.EXP:따라오다	1
+OM1.EXP:떫다	-1
+OM1.EXP:뚜렷하다	1
+OM1.EXP:마비증상 나타나다	-2
+OM1.EXP:만점 주고싶다	2
+OM1.EXP:매력있다	1
+OM1.EXP:머리 가려움 덜하다	1
+OM1.EXP:머리 속이 개운하다	1
+OM1.EXP:머리가 빠지다	-1
+OM1.EXP:머리가 뻣뻣해지다	-1
+OM1.EXP:머리가 찰랑거리다	1
+OM1.EXP:머리속이 개운하다	1
+OM1.EXP:머리카락 빠지다	-1
+OM1.EXP:머리카락 찰랑거리다	1
+OM1.EXP:머리카락이 뻣뻣해지다	-1
+OM1.EXP:머릿결 손상되다	-1
+OM1.EXP:면역 강화되다	1
+OM1.EXP:모발 굵어지다	1
+OM1.EXP:몸에 좋다	1
+OM1.EXP:몸에 해롭다	-2
+OM1.EXP:무리없다	1
+OM1.EXP:묵직하다	0
+OM1.EXP:문제 제기되다	-1
+OM1.EXP:묻다	0
+OM1.EXP:뭉치다	-1
+OM1.EXP:미미하다	1
+OM1.EXP:미백탁월하다	2
+OM1.EXP:민망할 정도로 작다	-1
+OM1.EXP:밍밍하다	-1
+OM1.EXP:바로 스며들다	2
+OM1.EXP:반응 좋다	1
+OM1.EXP:발암물질 나오다	-2
+OM1.EXP:발작 일으키다	-2
+OM1.EXP:방금 시중에 나오다	1
+OM1.EXP:방사능 물질 발견되다	-2
+OM1.EXP:번듯하다	1
+OM1.EXP:병원균 발견되다	-2
+OM1.EXP:보강되다	1
+OM1.EXP:보관하기 좋다	1
+OM1.EXP:보관하기 편하다	1
+OM1.EXP:보습력이 느껴지다	1
+OM1.EXP:보증되다	1
+OM1.EXP:복장 터지다	-2
+OM1.EXP:부담없다	1
+OM1.EXP:부피 많이 차지하다	-1
+OM1.EXP:부피 적게 차지하다	1
+OM1.EXP:분통 터지다	-2
+OM1.EXP:불균형하다	-1
+OM1.EXP:불량식품이다	-1
+OM1.EXP:불순물 나오다	-1
+OM1.EXP:불투명하다	-2
+OM1.EXP:붕괴되다	-1
+OM1.EXP:비대칭이다	-1
+OM1.EXP:빈번하다	-2
+OM1.EXP:빠르게 스며들다	1
+OM1.EXP:뻣뻣하다	-1
+OM1.EXP:사자마자 고장나다	-2
+OM1.EXP:살찔 염려 있다	-1
+OM1.EXP:삼류다	-2
+OM1.EXP:상세하다	1
+OM1.EXP:성능이 자랑거리이다	1
+OM1.EXP:세심하다	1
+OM1.EXP:소화불량 일으키다	-2
+OM1.EXP:속 터지다	-2
+OM1.EXP:손에 쏙 들어오다	1
+OM1.EXP:수준급이다	2
+OM1.EXP:수출용만 좋다	-1
+OM1.EXP:쉽게 고장나다	-1
+OM1.EXP:스트레스 받게 하다	-1
+OM1.EXP:시간 절약되다	1
+OM1.EXP:식중독 일으키다	-2
+OM1.EXP:신통하지 않다	-1
+OM1.EXP:싱싱하다	1
+OM1.EXP:쌩쌩하다	1
+OM1.EXP:쓰기 꺼려지다	-1
+OM1.EXP:아찔하게 좋다	2
+OM1.EXP:안락하다	1
+OM1.EXP:안성맞춤이다	1
+OM1.EXP:안전성까지 챙기다	1
+OM1.EXP:안전성이 무기다	1
+OM1.EXP:안전성이 장점이다	1
+OM1.EXP:안전성평가에서 1 등급 획득하다	1
+OM1.EXP:앞뒤 틀리다	-1
+OM1.EXP:앞서는 것 같다	1
+OM1.EXP:양쪽 다르다	-1
+OM1.EXP:양쪽 틀리다	-1
+OM1.EXP:얼굴 당기다	-1
+OM1.EXP:얼굴 땡기다	-1
+OM1.EXP:얼마안가 약해지다	-1
+OM1.EXP:열에 약하다	-1
+OM1.EXP:염려되다	-1
+OM1.EXP:영양덩어리다	2
+OM1.EXP:영양만점이다	2
+OM1.EXP:영양식이다	1
+OM1.EXP:옅다	0
+OM1.EXP:오래 되다	-1
+OM1.EXP:오류가 많다	-2
+OM1.EXP:올라가다	1
+OM1.EXP:완전무결하다	2
+OM1.EXP:욕나오다	-2
+OM1.EXP:원기회복에 좋다	1
+OM1.EXP:웰빙식으로 알맞다	1
+OM1.EXP:웰빙식이다	1
+OM1.EXP:웰빙음식이다	1
+OM1.EXP:유해물질 검출되다	-2
+OM1.EXP:유해물질 나오다	-2
+OM1.EXP:의구심 들다	-1
+OM1.EXP:의구심 생기다	-1
+OM1.EXP:이상 작동하다	-1
+OM1.EXP:익숙하다	0
+OM1.EXP:인상깊다	1
+OM1.EXP:인정할 만하다	1
+OM1.EXP:인증받다	1
+OM1.EXP:일등답다	1
+OM1.EXP:입증되다	1
+OM1.EXP:자외선 막아주다	1
+OM1.EXP:자외선 차단하다	1
+OM1.EXP:잘 망가지다	-1
+OM1.EXP:잘 부서지다	-1
+OM1.EXP:잘된다	1
+OM1.EXP:잘맞다	2
+OM1.EXP:장애 발생하다	-1
+OM1.EXP:장착되다	1
+OM1.EXP:저급하다	-1
+OM1.EXP:저사양인데 제법이다	1
+OM1.EXP:저지방이다	1
+OM1.EXP:저칼로리다	1
+OM1.EXP:적정수준 이상이다	1
+OM1.EXP:절감되다	1
+OM1.EXP:정확하다	1
+OM1.EXP:조절가능하다	1
+OM1.EXP:좋은지 모르겠다	-1
+OM1.EXP:좌우 다르다	-1
+OM1.EXP:좌우 틀리다	-1
+OM1.EXP:주머니에 들어가다	1
+OM1.EXP:준수한 편이다	1
+OM1.EXP:중국산 같다	-1
+OM1.EXP:중국산보다 못하다	-1
+OM1.EXP:중금속이 검출되다	-1
+OM1.EXP:짝짝이다	-1
+OM1.EXP:찢어지다	0
+OM1.EXP:처지다	-1
+OM1.EXP:최강이다	2
+OM1.EXP:최고 수준이다	2
+OM1.EXP:최근 거다	1
+OM1.EXP:최근 생산된 것이다	1
+OM1.EXP:최근에 만들다	1
+OM1.EXP:최근에 제조하다	1
+OM1.EXP:최상급이다	2
+OM1.EXP:최적이다	2
+OM1.EXP:최적화되다	2
+OM1.EXP:최하위다	-2
+OM1.EXP:추천할만하다	1
+OM1.EXP:충격 흡수 좋다	1
+OM1.EXP:충격 흡수되다	1
+OM1.EXP:칼슘의 제왕이다	2
+OM1.EXP:캐안습하다	-2
+OM1.EXP:컴팩트하다	1
+OM1.EXP:타의 추종 불허하다	2
+OM1.EXP:타제품 추월하다	1
+OM1.EXP:타제품에 비해 위력적이다	1
+OM1.EXP:탁월한 거 같다	2
+OM1.EXP:태아에 좋다	1
+OM1.EXP:탱탱하게 만들어주다	1
+OM1.EXP:트랜드다	1
+OM1.EXP:트러블 가려지다	1
+OM1.EXP:트러블 감춰지다	1
+OM1.EXP:트러블 제로다	1
+OM1.EXP:트러블에 도움되다	1
+OM1.EXP:퍽퍽하다	-1
+OM1.EXP:평가 좋다	1
+OM1.EXP:평가좋다	1
+OM1.EXP:평균 뛰어넘다	1
+OM1.EXP:평균 밑돌다	-1
+OM1.EXP:평범하다	0
+OM1.EXP:표시되다	1
+OM1.EXP:품질이 낮기로 유명하다	-1
+OM1.EXP:프로급이다	1
+OM1.EXP:피부 보호하다	1
+OM1.EXP:피부가 팽팽해지다	1
+OM1.EXP:피부에 자극적이다	-1
+OM1.EXP:하락하다	-1
+OM1.EXP:한번썼는데 고장나다	-2
+OM1.EXP:함유되다	1
+OM1.EXP:함유하다	1
+OM1.EXP:향상 시급하다	-1
+OM1.EXP:허점 있다	-1
+OM1.EXP:호평 받다	1
+OM1.EXP:화려하다	1
+OM1.EXP:환경호르몬 나오다	-2
+OM1.EXP:환하다	1
+OM1.EXP:효과적이다	1
+OM1.EXP:휘다	-1
+OM1.EXP:휴대하기 좋다	1
+OM1.EXP:휴대하기 편하다	1
+OM1.EXP:흔들거리다	-1
+OM1.EXP:흠있다	-1
+OM1.EXP:흠잡을 곳 없다	2
+OM1.EXP:흠잡을 데 없다	2
+OM1.EXP:힘과 기술이 조화롭다	1
+OM1.EXP:가뿐하다	1
+OM1.EXP:가혹하게 무겁다	-2
+OM1.EXP:각질이 일어나다	-1
+OM1.EXP:감탄스럽다	2
+OM1.EXP:값싸다	1
+OM1.EXP:거뜬하다	1
+OM1.EXP:거부감 생기다	-1
+OM1.EXP:거부감 안겨주다	-1
+OM1.EXP:거부감 있다	-1
+OM1.EXP:건성에 좋다	1
+OM1.EXP:건성피부에 괜찮다	1
+OM1.EXP:건성피부에 좋다	1
+OM1.EXP:경탄할 정도다	2
+OM1.EXP:고소하다	0
+OM1.EXP:과하다	-2
+OM1.EXP:구역질나다	-2
+OM1.EXP:구체적이다	1
+OM1.EXP:군것질거리 밖에 안되다	-1
+OM1.EXP:균일하다	1
+OM1.EXP:균형 있다	1
+OM1.EXP:균형 잡히다	1
+OM1.EXP:균형있다	1
+OM1.EXP:극찬할 만 하다	2
+OM1.EXP:기름기 많다	-1
+OM1.EXP:기분 좋다	1
+OM1.EXP:기억에 남다	1
+OM1.EXP:깃털같이 가볍다	1
+OM1.EXP:깊이가 느껴지다	1
+OM1.EXP:꺼림칙하다	-2
+OM1.EXP:날렵하다	1
+OM1.EXP:날카롭다	-1
+OM1.EXP:남다	-1
+OM1.EXP:내 입에 딱이다	1
+OM1.EXP:내 입에 맞다	1
+OM1.EXP:내리다	1
+OM1.EXP:내용 누락되다	-1
+OM1.EXP:내용 부실하다	-1
+OM1.EXP:내용 충실하다	1
+OM1.EXP:누렇다	-1
+OM1.EXP:느껴지다	0
+OM1.EXP:느낌 가볍다	1
+OM1.EXP:느낌 촉촉하다	1
+OM1.EXP:다운되다	1
+OM1.EXP:다이어트 식품으로 각광받다	1
+OM1.EXP:단맛만 난다	-1
+OM1.EXP:단조롭다	-1
+OM1.EXP:달달하니 괜찮다	1
+OM1.EXP:달달하니 좋다	1
+OM1.EXP:달려있다	1
+OM1.EXP:담백하다	1
+OM1.EXP:당분 많다	-1
+OM1.EXP:대세다	1
+OM1.EXP:대중적이다	1
+OM1.EXP:더없이 훌륭하다	2
+OM1.EXP:두배 만족하다	2
+OM1.EXP:두텁다	1
+OM1.EXP:들기 쉽다	1
+OM1.EXP:들기 어렵다	-1
+OM1.EXP:들기 힘들다	-1
+OM1.EXP:들만 하다	1
+OM1.EXP:들어가다	0
+OM1.EXP:따스하다	1
+OM1.EXP:땡기다	1
+OM1.EXP:떨떠름하다	-1
+OM1.EXP:또렷하다	1
+OM1.EXP:뚝뚝 끊어지다	-1
+OM1.EXP:마음에 든다	1
+OM1.EXP:만족도 크다	1
+OM1.EXP:만족이다	1
+OM1.EXP:맘에든다	1
+OM1.EXP:맛깔나다	1
+OM1.EXP:맛좋다	2
+OM1.EXP:망하다	-2
+OM1.EXP:매스껍다	-1
+OM1.EXP:매콤하다	0
+OM1.EXP:맵다	0
+OM1.EXP:맹맹하다	-1
+OM1.EXP:맹물 수준이다	-1
+OM1.EXP:먹고 기분상하다	-1
+OM1.EXP:먹을 만하다	1
+OM1.EXP:먹음직스럽다	1
+OM1.EXP:멋스럽다	1
+OM1.EXP:메스껍다	-1
+OM1.EXP:무거운감 있다	-1
+OM1.EXP:물리다	-2
+OM1.EXP:믿음 안가다	-1
+OM1.EXP:바삭바삭하다	1
+OM1.EXP:발진에 좋다	1
+OM1.EXP:방해되다	-1
+OM1.EXP:번역본 있다	1
+OM1.EXP:번지다	-1
+OM1.EXP:베스트다	2
+OM1.EXP:변질되다	-1
+OM1.EXP:별 무리없다	1
+OM1.EXP:보송보송하다	1
+OM1.EXP:보완해야 하다	-1
+OM1.EXP:보이다	-1
+OM1.EXP:불만족 하다	-1
+OM1.EXP:불편없다	1
+OM1.EXP:비뚤어지다	-1
+OM1.EXP:비리다	-1
+OM1.EXP:비린강하다	-2
+OM1.EXP:비린없다	1
+OM1.EXP:비린있다	-1
+OM1.EXP:빡빡하다	-1
+OM1.EXP:뽀송뽀송하다	1
+OM1.EXP:살다	1
+OM1.EXP:삼삼하니 알맞다	1
+OM1.EXP:삼삼하다	1
+OM1.EXP:새다	-1
+OM1.EXP:새콤달콤하다	1
+OM1.EXP:생생하다	1
+OM1.EXP:성의 있다	1
+OM1.EXP:세세하다	1
+OM1.EXP:소금덩어리다	-2
+OM1.EXP:소문나다	1
+OM1.EXP:소화하기 쉽다	1
+OM1.EXP:소화하기 어렵다	-1
+OM1.EXP:솜씨 뛰어나다	2
+OM1.EXP:술안주로 딱이다	1
+OM1.EXP:술안주로 좋다	1
+OM1.EXP:술안주로 훌륭하다	2
+OM1.EXP:시간 잡아먹다	-1
+OM1.EXP:시큼하다	0
+OM1.EXP:식사대용으로 별로다	-1
+OM1.EXP:식사대용으로 좋다	1
+OM1.EXP:식성 자극하다	1
+OM1.EXP:식욕 돋구다	1
+OM1.EXP:식욕 살리다	1
+OM1.EXP:실하다	1
+OM1.EXP:싱겁다	-1
+OM1.EXP:쏘다	0
+OM1.EXP:쏟아버리고 싶다	-2
+OM1.EXP:쓸데없이 길다	-2
+OM1.EXP:아리다	-1
+OM1.EXP:아삭아삭하다	1
+OM1.EXP:애매모호하다	-1
+OM1.EXP:연하고 달큼하다	1
+OM1.EXP:연하다	-1
+OM1.EXP:열에 강하다	1
+OM1.EXP:오래되다	-1
+OM1.EXP:오래된 것 같다	-1
+OM1.EXP:우리 입에 딱이다	1
+OM1.EXP:우리 입에 맞다	1
+OM1.EXP:움직이다	1
+OM1.EXP:유연하다	1
+OM1.EXP:유해식품이다	-2
+OM1.EXP:육중하다	-1
+OM1.EXP:으뜸이다	2
+OM1.EXP:이도 저도 아니다	-1
+OM1.EXP:이름 나다	1
+OM1.EXP:이미지 좋다	1
+OM1.EXP:인공조미료 쓰다	-1
+OM1.EXP:일반적이다	0
+OM1.EXP:일품이다	1
+OM1.EXP:입맛 사로잡다	1
+OM1.EXP:입맛에 맞다	1
+OM1.EXP:입에 감기다	1
+OM1.EXP:입에 괜찮다	1
+OM1.EXP:입에서 녹다	1
+OM1.EXP:자그마하다	1
+OM1.EXP:자세하다	1
+OM1.EXP:자유자재로 가능하다	1
+OM1.EXP:잘 빠지다	-1
+OM1.EXP:잡내나다	-1
+OM1.EXP:재밌다	1
+OM1.EXP:저하되다	-1
+OM1.EXP:적게든다	1
+OM1.EXP:정갈하니 좋다	1
+OM1.EXP:정성 느껴지다	1
+OM1.EXP:제공되다	1
+OM1.EXP:제대로다	1
+OM1.EXP:조미료다	-1
+OM1.EXP:조정되다	1
+OM1.EXP:줄다	1
+OM1.EXP:중독성 있다	1
+OM1.EXP:쥑이다	2
+OM1.EXP:지방덩어리다	-2
+OM1.EXP:지존이다	2
+OM1.EXP:질기다	-1
+OM1.EXP:질다	-1
+OM1.EXP:질색이다	-2
+OM1.EXP:짙다	0
+OM1.EXP:짜고 기름지다	-2
+OM1.EXP:쩐내 나다	-1
+OM1.EXP:차단되다	1
+OM1.EXP:천연조미료 쓰다	1
+OM1.EXP:청량하다	1
+OM1.EXP:초간단하다	2
+OM1.EXP:초간편하다	2
+OM1.EXP:최선이다	2
+OM1.EXP:최절정이다	2
+OM1.EXP:추천하다	1
+OM1.EXP:칼칼하니 알맞다	1
+OM1.EXP:칼칼하니 좋다	1
+OM1.EXP:커다랗다	1
+OM1.EXP:크기에 비해 가볍다	1
+OM1.EXP:큼지막하다	1
+OM1.EXP:탄력이 생기다	1
+OM1.EXP:탱탱하다	1
+OM1.EXP:텁텁하다	-1
+OM1.EXP:토악질 나오다	-2
+OM1.EXP:트러블에 좋다	1
+OM1.EXP:트러블이 생기다	-1
+OM1.EXP:특색 있다	1
+OM1.EXP:특이하다	0
+OM1.EXP:파격적이다	2
+OM1.EXP:패스트푸드 같다	-1
+OM1.EXP:푹신푹신하다	1
+OM1.EXP:풍성하다	1
+OM1.EXP:피부가 보들보들해지다	1
+OM1.EXP:피부가 일어나다	-1
+OM1.EXP:피부가 좋아지다	1
+OM1.EXP:피부가 촉촉해지다	1
+OM1.EXP:피부에 이상없다	1
+OM1.EXP:피부에 자극없다	1
+OM1.EXP:한글 설명서 있다	1
+OM1.EXP:한약처럼 쓰디쓰다	-1
+OM1.EXP:해장에 좋다	1
+OM1.EXP:허리가 편하다	1
+OM1.EXP:허리에 좋다	1
+OM1.EXP:호환되다	1
+OM1.EXP:혼자 설치 가능하다	1
+OM1.EXP:혼자서 할 수 있다	1
+OM1.EXP:화학조미료 쓰다	-1
+OM1.EXP:환상이다	2
+OM1.EXP:후레쉬하다	1
+OM1.EXP:힘있다	1
+OM1.EXP:어마어마하다	2
+OM1.EXP:낫다	1
+OM1.EXP:아깝다	-1
+OM1.EXP:아프다	-1
+OM1.EXP:바르다	1
+OM1.EXP:사납다	-1
+OM1.EXP:무섭다	-1
+OM1.EXP:꾸준하다	1
+OM1.EXP:어처구니없다	-1
+OM1.EXP:뻔뻔하다	-1
+OM1.EXP:미심쩍다	-1
+OM1.EXP:즐겁다	1
+OM1.EXP:올바르다	1
+OM1.EXP:더럽다	-1
+OM1.EXP:화끈하다	1
+OM1.EXP:잘생기다	1
+OM1.EXP:못나다	-1
+OM1.EXP:서툴다	-1
+OM1.EXP:반듯하다	1
+OM1.EXP:언짢다	-1
+OM1.EXP:별나다	-1
+OM1.EXP:허전하다	-1
+OM1.EXP:퉁명스럽다	-1
+OM1.EXP:얄밉다	-1
+OM1.EXP:서글서글하다	1
+OM1.EXP:게으르다	-1
+OM1.EXP:건방지다	-1
+OM1.EXP:훤칠하다	1
+OM1.EXP:재미없다	-1
+OM1.EXP:의젓하다	1
+OM1.EXP:사근사근하다	1
+OM1.EXP:복스럽다	1
+OM1.EXP:버릇없다	-1
+OM1.EXP:멋없다	-1
+OM1.EXP:다소곳하다	1
+OM1.EXP:상냥하다	1
+OM1.EXP:서투르다	-1
+OM1.EXP:삐딱하다	-1
+OM1.EXP:뽀얗다	1
+OM1.EXP:활기차다	1
+OM1.EXP:시큰둥하다	-1
+OM1.EXP:대범하다	1
+OM1.EXP:장하다	1
+OM1.EXP:어른스럽다	1
+OM1.EXP:시끄럽다	-1
+OM1.EXP:섬뜩하다	-1
+OM1.EXP:무던하다	1
+OM1.EXP:너무하다	-1
+OM1.EXP:한계다다르다	-1
+OM1.EXP:푸석하다	-1
+OM1.EXP:조그마하다	-1
+OM1.EXP:정의롭다	1
+OM1.EXP:의미없다	-1
+OM1.EXP:어쭙잖다	-1
+OM1.EXP:어질다	-1
+OM1.EXP:아니꼽다	-1
+OM1.EXP:미덥다	1
+OM1.EXP:드럽다	-1
+OM1.EXP:너그럽다	1
+OM1.EXP:급하다	-1
+OM1.EXP:거침없다	1
+OM1.EXP:객쩍다	-1
+OM1.EXP:값비싸다	-1
+OM1.EXP:힘겹다	-1
+OM1.EXP:흐리멍덩하다	-1
+OM1.EXP:헛되다	-1
+OM1.EXP:한결같다	1
+OM1.EXP:추레하다	-1
+OM1.EXP:철없다	-1
+OM1.EXP:참되다	1
+OM1.EXP:지각없다	-1
+OM1.EXP:좀스럽다	-1
+OM1.EXP:용하다	1
+OM1.EXP:염치없다	-1
+OM1.EXP:엉큼하다	-1
+OM1.EXP:앙큼하다	1
+OM1.EXP:앙상하다	-1
+OM1.EXP:쌀쌀맞다	-1
+OM1.EXP:싹싹하다	1
+OM1.EXP:실속없다	-1
+OM1.EXP:선하다	1
+OM1.EXP:상스럽다	-1
+OM1.EXP:버젓하다	1
+OM1.EXP:방정맞다	-1
+OM1.EXP:무디다	-1
+OM1.EXP:맹랑하다	-1
+OM1.EXP:매정하다	-1
+OM1.EXP:막돼먹다	-1
+OM1.EXP:도도하다	-1
+OM1.EXP:당차다	1
+OM1.EXP:다부지다	1
+OM1.EXP:남부끄럽다	-1
+OM1.EXP:나긋나긋하다	1
+OM1.EXP:꾀죄죄하다	-1
+OM1.EXP:깐깐하다	-1
+OM1.EXP:궁상맞다	-1
+OM1.EXP:굵직하다	1
+OM1.EXP:굳세다	1
+OM1.EXP:괴팍하다	-1
+OM1.EXP:걸걸하다	-1
+OM1.EXP:흉흉하다	-1
+OM1.EXP:휘황하다	1
+OM1.EXP:훤하다	1
+OM1.EXP:호리호리하다	1
+OM1.EXP:호기롭다	1
+OM1.EXP:험하다	-1
+OM1.EXP:험상궂다	-1
+OM1.EXP:퀭하다	-1
+OM1.EXP:침침하다	-1
+OM1.EXP:차근하다	1
+OM1.EXP:징글맞다	-1
+OM1.EXP:징그럽다	-1
+OM1.EXP:짓궂다	-1
+OM1.EXP:줄기차다	1
+OM1.EXP:주책없다	-1
+OM1.EXP:주제넘다	-1
+OM1.EXP:점잖다	1
+OM1.EXP:잽싸다	1
+OM1.EXP:재빠르다	1
+OM1.EXP:익살맞다	1
+OM1.EXP:우스꽝스럽다	-1
+OM1.EXP:왁자하다	1
+OM1.EXP:옹골지다	1
+OM1.EXP:예절바르다	1
+OM1.EXP:예사롭다	-1
+OM1.EXP:어엿하다	1
+OM1.EXP:어리숭하다	-1
+OM1.EXP:얌전하다	1
+OM1.EXP:앳되다	1
+OM1.EXP:아리땁다	1
+OM1.EXP:쌍스럽다	-1
+OM1.EXP:심술궂다	-1
+OM1.EXP:심드렁하다	-1
+OM1.EXP:실없다	-1
+OM1.EXP:시건방지다	-1
+OM1.EXP:속되다	-1
+OM1.EXP:빙충맞다	-1
+OM1.EXP:발칙하다	-1
+OM1.EXP:반반하다	1
+OM1.EXP:밉살스럽다	-1
+OM1.EXP:밉살맞다	-1
+OM1.EXP:몽땅하다	-1
+OM1.EXP:명예롭다	1
+OM1.EXP:매섭다	1
+OM1.EXP:말끔하다	1
+OM1.EXP:따사롭다	1
+OM1.EXP:되바라지다	-1
+OM1.EXP:달갑다	1
+OM1.EXP:늘씬하다	1
+OM1.EXP:낯설다	-1
+OM1.EXP:날래다	1
+OM1.EXP:깍듯하다	1
+OM1.EXP:극성맞다	-1
+OM1.EXP:굼뜨다	-1
+OM1.EXP:갸름하다	1
+OM1.EXP:갸륵하다	1
+OM1.EXP:가지런하다	1
+OM1.EXP:가냘프다	-1
+OM1.EXP:해롭다	-1
+OM1.EXP:폭넓다	1
+OM1.EXP:시들하다	-1
+OM1.EXP:성스럽다	1
+OM1.EXP:비좁다	-1
+OM1.EXP:능하다	1
+OM1.EXP:느릿하다	-1
+OM1.EXP:깜깜하다	-1
+OM1.EXP:변함없다	1
+OM1.EXP:너절하다	-1
+OM1.EXP:끄떡없다	1
+OM1.EXP:해맑다	1
+OM1.EXP:짜릿하다	1
+OM1.EXP:잘록하다	1
+OM1.EXP:신통찮다	-1
+OM1.EXP:소용없다	-1
+OM1.EXP:묘하다	1
+OM1.EXP:메마르다	-1
+OM1.EXP:맛없다	-1
+OM1.EXP:끈질기다	1
+OM1.EXP:껄끄럽다	-1
+OM1.EXP:그만그만하다	-1
+OM1.EXP:고지식하다	-1
+OM1.EXP:지지하다	1
+OM1.EXP:얄팍하다	-1
+OM1.EXP:비탈지다	-1
+OM1.EXP:붐비다	-1
+OM1.EXP:보기좋다	1
+OM1.EXP:믿음직하다	1
+OM1.EXP:모질다	-1
+OM1.EXP:굳건하다	1
+OM1.EXP:괴롭다	-1
+OM1.EXP:값지다	1
+OM1.EXP:후련하다	1
+OM1.EXP:창창하다	1
+OM1.EXP:조마조마하다	-1
+OM1.EXP:조그맣다	-1
+OM1.EXP:정겹다	1
+OM1.EXP:자잘하다	-1
+OM1.EXP:올곧다	1
+OM1.EXP:어리석다	-1
+OM1.EXP:쓰디쓰다	-1
+OM1.EXP:싱그럽다	1
+OM1.EXP:시디시다	-1
+OM1.EXP:시금털털하다	-1
+OM1.EXP:슬프다	-1
+OM1.EXP:순조롭다	1
+OM1.EXP:소소하다	-1
+OM1.EXP:변변하다	-1
+OM1.EXP:벙하다	-1
+OM1.EXP:발빠르다	1
+OM1.EXP:반갑다	1
+OM1.EXP:무시무시하다	1
+OM1.EXP:똘똘하다	1
+OM1.EXP:두둑하다	1
+OM1.EXP:될성부르다	1
+OM1.EXP:당찮다	1
+OM1.EXP:달큼하다	1
+OM1.EXP:능란하다	1
+OM1.EXP:꿋꿋하다	1
+OM1.EXP:꾸밈없다	1
+OM1.EXP:까딱없다	1
+OM1.EXP:기쁘다	1
+OM1.EXP:기름지다	-1
+OM1.EXP:귀하다	1
+OM1.EXP:궁하다	-1
+OM1.EXP:고프다	-1
+OM1.EXP:가렵다	-1
+OM1.EXP:희망차다	1
+OM1.EXP:흥겹다	1
+OM1.EXP:헤프다	-1
+OM1.EXP:팔팔하다	1
+OM1.EXP:틀림없다	1
+OM1.EXP:털털하다	1
+OM1.EXP:탐탁하다	1
+OM1.EXP:칠칠하다	-1
+OM1.EXP:최고조다다르다	1
+OM1.EXP:진득하다	1
+OM1.EXP:지긋지긋하다	-1
+OM1.EXP:적적하다	-1
+OM1.EXP:자질구레하다	-1
+OM1.EXP:자애롭다	1
+OM1.EXP:자비롭다	1
+OM1.EXP:의롭다	1
+OM1.EXP:음침하다	-1
+OM1.EXP:으리으리하다	1
+OM1.EXP:외롭다	-1
+OM1.EXP:오싹하다	-1
+OM1.EXP:옛스럽다	-1
+OM1.EXP:없다없다	1
+OM1.EXP:억척같다	1
+OM1.EXP:억세다	-1
+OM1.EXP:어림없다	1
+OM1.EXP:어리벙벙하다	-1
+OM1.EXP:얍삽하다	-1
+OM1.EXP:약삭빠르다	1
+OM1.EXP:야멸치다	-1
+OM1.EXP:애틋하다	1
+OM1.EXP:애잔하다	1
+OM1.EXP:씩씩하다	1
+OM1.EXP:쓰라리다	-1
+OM1.EXP:쑥스럽다	-1
+OM1.EXP:수더분하다	-1
+OM1.EXP:서럽다	-1
+OM1.EXP:서글프다	-1
+OM1.EXP:빤하다	-1
+OM1.EXP:비뚤다	-1
+OM1.EXP:비등비등하다	-1
+OM1.EXP:부질없다	-1
+OM1.EXP:보람차다	1
+OM1.EXP:보드레하다	1
+OM1.EXP:벅차다	-1
+OM1.EXP:멋쩍다	-1
+OM1.EXP:매몰차다	-1
+OM1.EXP:마땅찮다	-1
+OM1.EXP:띨하다	-1
+OM1.EXP:띨띨하다	-1
+OM1.EXP:뜸하다	-1
+OM1.EXP:등등하다	1
+OM1.EXP:드세다	-1
+OM1.EXP:드물다	1
+OM1.EXP:두렵다	-1
+OM1.EXP:눅눅하다	-1
+OM1.EXP:꽁하다	-1
+OM1.EXP:그지없다	1
+OM1.EXP:그르다	-1
+OM1.EXP:귀찮다	-1
+OM1.EXP:괜하다	-1
+OM1.EXP:고달프다	-1
+OM1.EXP:고꾸라지다	-1
+OM1.EXP:겸연쩍다	-1
+OM1.EXP:거룩하다	1
+OM1.EXP:감미롭다	1
+OM1.EXP:가파르다	-1
+OM1.EXP:가소롭다	-1
+OM1.EXP:가멸다	1
+OM1.EXP:줄이다	1
+OM1.EXP:줄다	1
